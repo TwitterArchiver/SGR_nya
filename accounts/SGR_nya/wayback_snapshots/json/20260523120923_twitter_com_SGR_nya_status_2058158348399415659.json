@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2057828257689743620",
+    "created_at": "2026-05-23T12:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058158348399415659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493896636669792265",
+          "start": 0,
+          "username": "JialuRui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058158348399415659",
+    "in_reply_to_user_id": "1493896636669792265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057828257689743620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JialuRui 对的对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2057828257689743620",
+        "created_at": "2026-05-23T12:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058158348399415659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493896636669792265",
+              "start": 0,
+              "username": "JialuRui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058158348399415659",
+        "in_reply_to_user_id": "1493896636669792265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057828257689743620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JialuRui 对的对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493896636669792265",
+        "conversation_id": "2057828257689743620",
+        "created_at": "2026-05-22T14:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057828257689743620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaozhou966/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xiaozhou966/status/2057392038333849740",
+              "start": 36,
+              "url": "https://t.co/QhPjrcw7k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057828257689743620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 29396,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057392038333849740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁不想维持关系谁就干干净净滚开，而不是让另一方付出，这个道理很难懂吗？ https://t.co/QhPjrcw7k1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62705,
+          "following_count": 2077,
+          "like_count": 52265,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-16T10:35:02.000Z",
+        "description": "IG:Thriller_Candy 塔罗占卜配图均为本人原创作品，请勿商用，用了也没用，分辨率被压缩过了。谢谢！",
+        "id": "1493896636669792265",
+        "name": "YdnaC Rellirt",
+        "pinned_tweet_id": "1895262445033378164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564578794912247808/lklSbeMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9293,
+          "following_count": 260,
+          "like_count": 9269,
+          "listed_count": 22,
+          "media_count": 1701,
+          "tweet_count": 7607
+        },
+        "username": "JialuRui",
+        "verified": false
+      }
+    ]
+  }
+}

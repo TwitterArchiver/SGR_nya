@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2009876496878608612",
+    "created_at": "2026-01-10T06:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T07:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009877762610475108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862930523016032256",
+          "start": 0,
+          "username": "HibarigaokaNene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009877762610475108",
+    "in_reply_to_user_id": "1862930523016032256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009877229510308190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HibarigaokaNene 包的👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2009876496878608612",
+        "created_at": "2026-01-10T06:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009877762610475108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862930523016032256",
+              "start": 0,
+              "username": "HibarigaokaNene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009877762610475108",
+        "in_reply_to_user_id": "1862930523016032256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009877229510308190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HibarigaokaNene 包的👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862930523016032256",
+        "conversation_id": "2009876496878608612",
+        "created_at": "2026-01-10T06:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009877229510308190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009877229510308190",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009876496878608612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！😋您是变态！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "凡是⠝⠁⠎⠓⠊⠗⠕作出的决策，我们都坚决维护；凡是⠝⠁⠎⠓⠊⠗⠕的指示，我们都始终不渝地遵循",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61990,
+          "following_count": 2095,
+          "like_count": 50844,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T18:43:50.000Z",
+        "description": "中国語勉強中💜💚HibarigaokaNene🧀見ないで理解できないでしょ？prsk/ニーゴ·ワンダショ/Victoria3/TransportFever2/穏健保守リベラル/サナ推し",
+        "id": "1862930523016032256",
+        "location": "ベーカリーAlouette ひばりヶ丘駅前",
+        "name": "寧々",
+        "pinned_tweet_id": "1988195584537489594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995725727761924097/GF-LPw3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 230,
+          "like_count": 19083,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1787
+        },
+        "username": "HibarigaokaNene",
+        "verified": false
+      }
+    ]
+  }
+}

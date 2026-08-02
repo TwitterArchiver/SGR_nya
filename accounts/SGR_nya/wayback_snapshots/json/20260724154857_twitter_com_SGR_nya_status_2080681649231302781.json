@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080681645112442880",
+        "3_2080681645112483840",
+        "3_2080681645162868736"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2080681649231302781",
+    "created_at": "2026-07-24T15:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080681649231302781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TeWWZDPv3h",
+          "end": 51,
+          "expanded_url": "https://x.com/SGR_nya/status/2080681649231302781/photo/1",
+          "media_key": "3_2080681645112442880",
+          "start": 28,
+          "url": "https://t.co/TeWWZDPv3h"
+        },
+        {
+          "display_url": "pic.x.com/TeWWZDPv3h",
+          "end": 51,
+          "expanded_url": "https://x.com/SGR_nya/status/2080681649231302781/photo/1",
+          "media_key": "3_2080681645112483840",
+          "start": 28,
+          "url": "https://t.co/TeWWZDPv3h"
+        },
+        {
+          "display_url": "pic.x.com/TeWWZDPv3h",
+          "end": 51,
+          "expanded_url": "https://x.com/SGR_nya/status/2080681649231302781/photo/1",
+          "media_key": "3_2080681645162868736",
+          "start": 28,
+          "url": "https://t.co/TeWWZDPv3h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080681649231302781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "拿自己聊天记录炼了个微调\n练到位了说是\n太对了🤦‍♀️ https://t.co/TeWWZDPv3h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_2080681645112442880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAQ7quaQAAlLYm.jpg",
+        "width": 874
+      },
+      {
+        "height": 830,
+        "media_key": "3_2080681645112483840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAQ7qua4AArky6.jpg",
+        "width": 752
+      },
+      {
+        "height": 800,
+        "media_key": "3_2080681645162868736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAQ7q6bsAA3_aS.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080681645112442880",
+            "3_2080681645112483840",
+            "3_2080681645162868736"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2080681649231302781",
+        "created_at": "2026-07-24T15:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080681649231302781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TeWWZDPv3h",
+              "end": 51,
+              "expanded_url": "https://x.com/SGR_nya/status/2080681649231302781/photo/1",
+              "media_key": "3_2080681645112442880",
+              "start": 28,
+              "url": "https://t.co/TeWWZDPv3h"
+            },
+            {
+              "display_url": "pic.x.com/TeWWZDPv3h",
+              "end": 51,
+              "expanded_url": "https://x.com/SGR_nya/status/2080681649231302781/photo/1",
+              "media_key": "3_2080681645112483840",
+              "start": 28,
+              "url": "https://t.co/TeWWZDPv3h"
+            },
+            {
+              "display_url": "pic.x.com/TeWWZDPv3h",
+              "end": 51,
+              "expanded_url": "https://x.com/SGR_nya/status/2080681649231302781/photo/1",
+              "media_key": "3_2080681645162868736",
+              "start": 28,
+              "url": "https://t.co/TeWWZDPv3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080681649231302781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "拿自己聊天记录炼了个微调\n练到位了说是\n太对了🤦‍♀️ https://t.co/TeWWZDPv3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngEo0V"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63225,
+          "following_count": 2074,
+          "like_count": 54595,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/yQ32ngEo0V",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

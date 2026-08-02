@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2069737274460479770",
+    "created_at": "2026-06-26T03:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070343829572710549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767139045774360576",
+          "start": 0,
+          "username": "gu4327053743275"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070343829572710549",
+    "in_reply_to_user_id": "1767139045774360576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069739427241545865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@gu4327053743275 有过一次在车店门口x平时骑倒是真没摔过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2069737274460479770",
+        "created_at": "2026-06-26T03:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070343829572710549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767139045774360576",
+              "start": 0,
+              "username": "gu4327053743275"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070343829572710549",
+        "in_reply_to_user_id": "1767139045774360576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069739427241545865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@gu4327053743275 有过一次在车店门口x平时骑倒是真没摔过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767139045774360576",
+        "conversation_id": "2069737274460479770",
+        "created_at": "2026-06-24T11:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069739427241545865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069739427241545865",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069737274460479770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 好奇，你以前有没有零速摔过？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63093,
+          "following_count": 2070,
+          "like_count": 53503,
+          "listed_count": 4,
+          "media_count": 444,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T10:42:45.000Z",
+        "description": "别苦着脸了，来喝一杯吧",
+        "id": "1767139045774360576",
+        "name": "绝缘栅双极晶体管",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881611531432992768/ePUo-KIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 252,
+          "like_count": 32321,
+          "listed_count": 2,
+          "media_count": 895,
+          "tweet_count": 18637
+        },
+        "url": "",
+        "username": "gu4327053743275",
+        "verified": false
+      }
+    ]
+  }
+}

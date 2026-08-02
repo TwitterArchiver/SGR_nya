@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2079180570182164707",
+    "created_at": "2026-07-23T02:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080118168161574959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "943424135287283712",
+          "start": 0,
+          "username": "nayuki_leung"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080118168161574959",
+    "in_reply_to_user_id": "943424135287283712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079180570182164707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nayuki_leung 在日本试过不小心喊唔该，在中国不小心喊过嘶咪嘛赛x"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079180570182164707].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079180570182164707",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079180570182164707"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2079180570182164707",
+        "created_at": "2026-07-23T02:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080118168161574959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "943424135287283712",
+              "start": 0,
+              "username": "nayuki_leung"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080118168161574959",
+        "in_reply_to_user_id": "943424135287283712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079180570182164707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nayuki_leung 在日本试过不小心喊唔该，在中国不小心喊过嘶咪嘛赛x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngEo0V"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63209,
+          "following_count": 2075,
+          "like_count": 54539,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 934
+        },
+        "url": "https://t.co/yQ32ngEo0V",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-20T10:13:36.000Z",
+        "description": "樽裝咖啡☕🏳️‍🌈 / 1096.44km / 少了妄想的流浪橘缅因猫 / 守着安静的沙漠，等待花开 / 城市再也不会听到，我们争吵，可惜我们终于来到一个句号",
+        "id": "943424135287283712",
+        "location": "克洛斯贝尔",
+        "name": "名雪🌸なゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075419152102088704/L1AZy8pU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1633,
+          "like_count": 71047,
+          "listed_count": 5,
+          "media_count": 616,
+          "tweet_count": 31621
+        },
+        "url": "",
+        "username": "nayuki_leung",
+        "verified": false
+      }
+    ]
+  }
+}

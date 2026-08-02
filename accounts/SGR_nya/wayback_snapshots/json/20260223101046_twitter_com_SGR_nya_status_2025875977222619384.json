@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2025864638794268714",
+    "created_at": "2026-02-23T10:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025875977222619384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1629845526970798081",
+          "start": 0,
+          "username": "Anci7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025875977222619384",
+    "in_reply_to_user_id": "1629845526970798081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025875541556092980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anci7e 倒钩和富哥，一个愿打一个愿挨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2025864638794268714",
+        "created_at": "2026-02-23T10:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025875977222619384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1629845526970798081",
+              "start": 0,
+              "username": "Anci7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025875977222619384",
+        "in_reply_to_user_id": "1629845526970798081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025875541556092980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anci7e 倒钩和富哥，一个愿打一个愿挨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629845526970798081",
+        "conversation_id": "2025864638794268714",
+        "created_at": "2026-02-23T10:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025875541556092980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025875541556092980",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025864638794268714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 哪个傻逼花3000块买鼠标我笑他一辈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62280,
+          "following_count": 2094,
+          "like_count": 51236,
+          "listed_count": 5,
+          "media_count": 457,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-26T14:07:22.000Z",
+        "description": "过期高中生",
+        "id": "1629845526970798081",
+        "location": "1",
+        "name": "41 37 0A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920636669767610368/Q7M74tOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 289,
+          "like_count": 27439,
+          "listed_count": 2,
+          "media_count": 738,
+          "tweet_count": 7453
+        },
+        "username": "Anci7e",
+        "verified": false
+      }
+    ]
+  }
+}

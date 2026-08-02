@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2026226460600713513",
+    "created_at": "2026-02-24T09:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026226460600713513"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026226460600713513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "该做的努力做了 该给的耐心给了 职责范围内我能做到的事情都努力在做 超出职责范围的出于好意我也在把本不是自己的责任往自己身上揽\n我可能对不起自己，但我至少从来没对不起别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2026226460600713513",
+        "created_at": "2026-02-24T09:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026226460600713513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026226460600713513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "该做的努力做了 该给的耐心给了 职责范围内我能做到的事情都努力在做 超出职责范围的出于好意我也在把本不是自己的责任往自己身上揽\n我可能对不起自己，但我至少从来没对不起别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62317,
+          "following_count": 2095,
+          "like_count": 51250,
+          "listed_count": 5,
+          "media_count": 457,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": false
+      }
+    ]
+  }
+}

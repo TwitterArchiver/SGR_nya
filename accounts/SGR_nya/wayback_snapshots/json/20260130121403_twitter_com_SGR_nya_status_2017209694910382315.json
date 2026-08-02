@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2017207885483434354",
+    "created_at": "2026-01-30T12:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017209694910382315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1503534778024292356",
+          "start": 0,
+          "username": "Yuki_Nyaaaa"
+        },
+        {
+          "end": 28,
+          "id": "1151677220101844992",
+          "start": 13,
+          "username": "Shinonononome1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017209694910382315",
+    "in_reply_to_user_id": "1503534778024292356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017207885483434354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki_Nyaaaa @Shinonononome1 你们怎么什么都有.png"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017207874485964801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_6P38zbUAEYkaS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2017207885483434354",
+        "created_at": "2026-01-30T12:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017209694910382315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1503534778024292356",
+              "start": 0,
+              "username": "Yuki_Nyaaaa"
+            },
+            {
+              "end": 28,
+              "id": "1151677220101844992",
+              "start": 13,
+              "username": "Shinonononome1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017209694910382315",
+        "in_reply_to_user_id": "1503534778024292356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017207885483434354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki_Nyaaaa @Shinonononome1 你们怎么什么都有.png"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017207874485964801"
+          ]
+        },
+        "author_id": "1503534778024292356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017207885483434354",
+        "created_at": "2026-01-30T12:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017207885483434354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "男の娘ᅠ"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "男娘"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "捆绑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1503534778024292356",
+              "start": 26,
+              "username": "Yuki_Nyaaaa"
+            },
+            {
+              "end": 57,
+              "id": "1151677220101844992",
+              "start": 42,
+              "username": "Shinonononome1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Th4h3Z3kxR",
+              "end": 95,
+              "expanded_url": "https://x.com/Yuki_Nyaaaa/status/2017207885483434354/photo/1",
+              "media_key": "3_2017207874485964801",
+              "start": 72,
+              "url": "https://t.co/Th4h3Z3kxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017207885483434354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在抓娃娃机上作弊的人最后会被做成娃娃装进去哦～\n🪢：@Yuki_Nyaaaa \n👩：@Shinonononome1\n#男の娘ᅠ #男娘 #捆绑 https://t.co/Th4h3Z3kxR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62097,
+          "following_count": 2097,
+          "like_count": 50982,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-15T00:53:27.000Z",
+        "description": "一天能睡18小时的猫猫/ftp 250瓦菜腿/\n喜欢airsoft/wargame/射箭🎯/\nBDSM重度爱好者，欢迎来捆我( )/\n想学绳子但是目前还很菜orz/\n材料学硕士攻读中，学业繁忙，随缘更新\n不知道写啥了，先写这么多)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukinyawargame.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://yukinyawargame.wordpress.com/",
+                "start": 0,
+                "url": "https://t.co/yevECqZVd3"
+              }
+            ]
+          }
+        },
+        "id": "1503534778024292356",
+        "location": "北京/深圳",
+        "name": "雪夜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770683512406134784/OOJB5tPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9807,
+          "following_count": 131,
+          "like_count": 162,
+          "listed_count": 40,
+          "media_count": 92,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/yevECqZVd3",
+        "username": "Yuki_Nyaaaa",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T02:17:01.000Z",
+        "description": "愿将欢笑声，盖掩苦痛那一面，\n悲也好喜也好，每天找到新发现，\n让疾风吹呀吹，尽管给我俩考验，\n小雨点放心洒，早已决心向着前。",
+        "id": "1151677220101844992",
+        "location": "冇人的世界",
+        "name": "ChunQiao—长春桥🍥",
+        "pinned_tweet_id": "1670420995012984834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1463356476186296324/OOuAuLUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 371,
+          "like_count": 1917,
+          "listed_count": 10,
+          "media_count": 141,
+          "tweet_count": 1213
+        },
+        "username": "Shinonononome1",
+        "verified": false
+      }
+    ]
+  }
+}

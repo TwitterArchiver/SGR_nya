@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2050439847673041056",
+    "created_at": "2026-05-02T12:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050557123344703985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050557123344703985",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050439847673041056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 情况极其罕见，事故原因极其复杂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2050439645171998720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSf_lva4AAJ2_1.jpg",
+        "width": 1062
+      },
+      {
+        "duration_ms": 17533,
+        "height": 1280,
+        "media_key": "13_2050439644878393344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050439644878393344/img/yKe165odXmA11c26.jpg",
+        "public_metrics": {
+          "view_count": 11128
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050439644878393344/vid/avc1/320x568/Xv7GygRLryaounsJ.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050439644878393344/vid/avc1/480x852/T7kIGc_HxGtuZ-Sr.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050439644878393344/vid/avc1/720x1280/52L1yFMq0aI81S6d.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050439644878393344/pl/oDfJgSrFjOhgUxGk.m3u8?tag=27&v=184"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 6266,
+        "height": 1280,
+        "media_key": "13_2050439644874162176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050439644874162176/img/JusCli6DoZy34Fk7.jpg",
+        "public_metrics": {
+          "view_count": 3231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050439644874162176/vid/avc1/320x580/jvqTNDj4WUDpJiFH.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050439644874162176/vid/avc1/480x872/o4mnXbw2D7Hc7bvW.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050439644874162176/vid/avc1/704x1280/2LMEJbg6LN50v2Df.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050439644874162176/pl/MIudV-hG2JnsRvXM.m3u8?tag=27"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2050439847673041056",
+        "created_at": "2026-05-02T12:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050557123344703985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050557123344703985",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050439847673041056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 情况极其罕见，事故原因极其复杂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050439645171998720",
+            "13_2050439644878393344",
+            "13_2050439644874162176"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "conversation_id": "2050439847673041056",
+        "created_at": "2026-05-02T04:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050439847673041056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e1C9Iqpr3k",
+              "end": 94,
+              "expanded_url": "https://x.com/realNyarime/status/2050439847673041056/video/1",
+              "media_key": "3_2050439645171998720",
+              "start": 71,
+              "url": "https://t.co/e1C9Iqpr3k"
+            },
+            {
+              "display_url": "pic.x.com/e1C9Iqpr3k",
+              "end": 94,
+              "expanded_url": "https://x.com/realNyarime/status/2050439847673041056/video/1",
+              "media_key": "13_2050439644878393344",
+              "start": 71,
+              "url": "https://t.co/e1C9Iqpr3k"
+            },
+            {
+              "display_url": "pic.x.com/e1C9Iqpr3k",
+              "end": 94,
+              "expanded_url": "https://x.com/realNyarime/status/2050439847673041056/video/1",
+              "media_key": "13_2050439644874162176",
+              "start": 71,
+              "url": "https://t.co/e1C9Iqpr3k"
+            },
+            {
+              "display_url": "x.com/Jaciezyt/statu…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/Jaciezyt/status/2050430368193614058",
+              "start": 95,
+              "url": "https://t.co/jg5WL6xWSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050439847673041056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 40925,
+          "like_count": 107,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050430368193614058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月2日中午，东航MU5406航班（注册号 B324W）在成都双流飞往上海虹桥后，于停机坪未能刹停，撞上廊桥。机长及时打开反推，事件原因待查 https://t.co/e1C9Iqpr3k https://t.co/jg5WL6xWSM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62605,
+          "following_count": 2083,
+          "like_count": 51774,
+          "listed_count": 6,
+          "media_count": 420,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜ Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31829,
+          "following_count": 590,
+          "like_count": 13429,
+          "listed_count": 153,
+          "media_count": 1644,
+          "tweet_count": 10975
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

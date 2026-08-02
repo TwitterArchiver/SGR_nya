@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2003287286277140575",
+    "created_at": "2025-12-23T02:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T03:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003287286277140575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1263586846518329344",
+          "start": 3,
+          "username": "Jia75119307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003287286277140575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002888908481425753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jia75119307: 想被对方很喜欢算是高情感需求吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2003287286277140575",
+        "created_at": "2025-12-23T02:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003287286277140575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1263586846518329344",
+              "start": 3,
+              "username": "Jia75119307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003287286277140575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002888908481425753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jia75119307: 想被对方很喜欢算是高情感需求吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263586846518329344",
+        "conversation_id": "2002888908481425753",
+        "created_at": "2025-12-21T23:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T00:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002888908481425753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002888908481425753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 52485,
+          "like_count": 352,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "想被对方很喜欢算是高情感需求吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61846,
+          "following_count": 2091,
+          "like_count": 50600,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-21T21:58:29.000Z",
+        "description": "小狗大王最好啦@Berberlne ｜ 淡圈状态暂不约调 ｜恋痛/耐痛/乳高/纯sp可以私信找我。｜我的灵魂丰沛充盈，我的爱意至高无上。匿名提问箱https://t.co/VTOZ0EFCOY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Berberlne"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/victoria_.y",
+                "end": 96,
+                "expanded_url": "https://ngl.link/victoria_.y",
+                "start": 73,
+                "url": "https://t.co/VTOZ0EFCOY"
+              }
+            ]
+          }
+        },
+        "id": "1263586846518329344",
+        "location": "Toronto, Ontario",
+        "name": "Victoria_忘生",
+        "pinned_tweet_id": "1758569963491836398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263590228876394497/0HhoO1v4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 983,
+          "like_count": 4503,
+          "listed_count": 5,
+          "media_count": 1084,
+          "tweet_count": 5269
+        },
+        "username": "Jia75119307",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2082860948629619109",
+    "created_at": "2026-07-31T00:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082980002006729166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1143767655377039360",
+          "start": 0,
+          "username": "NaShiro_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082980002006729166",
+    "in_reply_to_user_id": "1143767655377039360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082860948629619109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaShiro_Yuki 眼药水用了嘛？摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2082860948629619109",
+        "created_at": "2026-07-31T00:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082980002006729166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1143767655377039360",
+              "start": 0,
+              "username": "NaShiro_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082980002006729166",
+        "in_reply_to_user_id": "1143767655377039360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082860948629619109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaShiro_Yuki 眼药水用了嘛？摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1143767655377039360",
+        "conversation_id": "2082860948629619109",
+        "created_at": "2026-07-30T16:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082860948629619109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082860948629619109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛好痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngEo0V"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "シグレ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63230,
+          "following_count": 2072,
+          "like_count": 54687,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/yQ32ngEo0V",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-26T06:27:14.000Z",
+        "description": "索拉尔的二次仪式",
+        "id": "1143767655377039360",
+        "location": "幻梦境",
+        "name": "奈丶白",
+        "pinned_tweet_id": "1945570893742444969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979703990876065792/QfM1MBX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 336,
+          "like_count": 4201,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 2221
+        },
+        "url": "",
+        "username": "NaShiro_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

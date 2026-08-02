@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2014644733466087699",
+    "created_at": "2026-01-23T10:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T11:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014644733466087699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014644733466087699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014618952597725651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 很多人是接不住真诚这种频率的，一旦感受到真诚，他们就会滋生出傲慢和贪婪，就会把这份纯粹扭曲成“可随意拿捏”的信号。因为人无法接住他本身就没有的东西，只有同等能量的人才能互相识别、理解、珍惜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2014644733466087699",
+        "created_at": "2026-01-23T10:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014644733466087699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014644733466087699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014618952597725651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 很多人是接不住真诚这种频率的，一旦感受到真诚，他们就会滋生出傲慢和贪婪，就会把这份纯粹扭曲成“可随意拿捏”的信号。因为人无法接住他本身就没有的东西，只有同等能量的人才能互相识别、理解、珍惜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2014618952597725651",
+        "created_at": "2026-01-23T08:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T09:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014618952597725651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014618952597725651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1460,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "很多人是接不住真诚这种频率的，一旦感受到真诚，他们就会滋生出傲慢和贪婪，就会把这份纯粹扭曲成“可随意拿捏”的信号。因为人无法接住他本身就没有的东西，只有同等能量的人才能互相识别、理解、珍惜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62083,
+          "following_count": 2093,
+          "like_count": 50948,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5494,
+          "following_count": 5,
+          "like_count": 915,
+          "listed_count": 13,
+          "media_count": 58,
+          "tweet_count": 1132
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

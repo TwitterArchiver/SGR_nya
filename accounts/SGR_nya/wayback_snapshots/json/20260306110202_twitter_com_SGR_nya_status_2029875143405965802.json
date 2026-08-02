@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029875136774717440"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029875143405965802",
+    "created_at": "2026-03-06T11:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029875143405965802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Luwg8qdwkx",
+          "end": 42,
+          "expanded_url": "https://x.com/SGR_nya/status/2029875143405965802/photo/1",
+          "media_key": "3_2029875136774717440",
+          "start": 19,
+          "url": "https://t.co/Luwg8qdwkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029875143405965802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兄弟 鼠标吃了老鼠药死了 不然包来的 https://t.co/Luwg8qdwkx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3407,
+        "media_key": "3_2029875136774717440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuQrqHawAAXRRC.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029875136774717440"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029875143405965802",
+        "created_at": "2026-03-06T11:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029875143405965802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Luwg8qdwkx",
+              "end": 42,
+              "expanded_url": "https://x.com/SGR_nya/status/2029875143405965802/photo/1",
+              "media_key": "3_2029875136774717440",
+              "start": 19,
+              "url": "https://t.co/Luwg8qdwkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029875143405965802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟 鼠标吃了老鼠药死了 不然包来的 https://t.co/Luwg8qdwkx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 中猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 超大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ultra猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝",
+        "id": "1130781616274468864",
+        "location": "万达广场附近",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62356,
+          "following_count": 2095,
+          "like_count": 51294,
+          "listed_count": 6,
+          "media_count": 405,
+          "tweet_count": 758
+        },
+        "username": "SGR_nya",
+        "verified": false
+      }
+    ]
+  }
+}

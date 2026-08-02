@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2070106731603181625",
+    "created_at": "2026-06-28T12:17:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T13:17:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071206231033987409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1131911207915380736",
+          "start": 0,
+          "username": "nene00219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071206231033987409",
+    "in_reply_to_user_id": "1131911207915380736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070106731603181625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nene00219 好棒！这个有穿裙撑嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070075475012227072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpirUJaEAA7hs6.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2070106731603181625",
+        "created_at": "2026-06-28T12:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071206231033987409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1131911207915380736",
+              "start": 0,
+              "username": "nene00219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071206231033987409",
+        "in_reply_to_user_id": "1131911207915380736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070106731603181625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nene00219 好棒！这个有穿裙撑嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070075475012227072"
+          ]
+        },
+        "author_id": "1131911207915380736",
+        "conversation_id": "2070106731603181625",
+        "created_at": "2026-06-25T11:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070106731603181625"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "Lolitafashion"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "男の娘"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fKvhA9Ae9Z",
+              "end": 55,
+              "expanded_url": "https://x.com/nene00219/status/2070106731603181625/photo/1",
+              "media_key": "3_2070075475012227072",
+              "start": 32,
+              "url": "https://t.co/fKvhA9Ae9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070106731603181625",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 8973,
+          "like_count": 401,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#Lolitafashion #男娘 #男の娘 #可爱的男孩子 https://t.co/fKvhA9Ae9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63109,
+          "following_count": 2069,
+          "like_count": 53811,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-24T13:13:56.000Z",
+        "description": "170/50｜istj｜喜欢漂亮可爱的小裙子O(∩_∩)O👗｜双鱼座♓｜提问箱💌 https://t.co/MWnGbFb0aF ｜提问箱回复💌、日常💭🥗在这里@shiroha467 ｜更多平台在下方↓↓↓🔗URL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "shiroha467"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nene418491",
+                "end": 64,
+                "expanded_url": "https://ngl.link/nene418491",
+                "start": 41,
+                "url": "https://t.co/MWnGbFb0aF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nene219",
+                "end": 23,
+                "expanded_url": "http://lit.link/nene219",
+                "start": 0,
+                "url": "https://t.co/4yFM9YJlzZ"
+              }
+            ]
+          }
+        },
+        "id": "1131911207915380736",
+        "location": "廣州",
+        "name": "Nene",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944178089623277568/-nwvYjYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7002,
+          "following_count": 279,
+          "like_count": 4845,
+          "listed_count": 42,
+          "media_count": 247,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/4yFM9YJlzZ",
+        "username": "nene00219",
+        "verified": true
+      }
+    ]
+  }
+}

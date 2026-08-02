@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004755206769442821"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2004755222552580579",
+    "created_at": "2025-12-27T03:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T04:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004755222552580579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775851282710122496",
+          "start": 4,
+          "username": "Vincy1230"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LKgXsPKzsG",
+          "end": 38,
+          "expanded_url": "https://x.com/SGR_nya/status/2004755222552580579/photo/1",
+          "media_key": "3_2004755206769442821",
+          "start": 15,
+          "url": "https://t.co/LKgXsPKzsG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004755222552580579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太坏了！@Vincy1230 https://t.co/LKgXsPKzsG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2004755206769442821",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9JSPSkbgAUW0d3.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004755206769442821"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004755222552580579",
+        "created_at": "2025-12-27T03:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004755222552580579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775851282710122496",
+              "start": 4,
+              "username": "Vincy1230"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKgXsPKzsG",
+              "end": 38,
+              "expanded_url": "https://x.com/SGR_nya/status/2004755222552580579/photo/1",
+              "media_key": "3_2004755206769442821",
+              "start": 15,
+              "url": "https://t.co/LKgXsPKzsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004755222552580579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太坏了！@Vincy1230 https://t.co/LKgXsPKzsG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61847,
+          "following_count": 2101,
+          "like_count": 50710,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-04T11:42:12.000Z",
+        "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "BeforeDawnBreak"
+              }
+            ]
+          }
+        },
+        "id": "1775851282710122496",
+        "location": "Macau SAR / Beijing, P.R.China",
+        "name": "Vincy SHI 🍥",
+        "pinned_tweet_id": "1995213125566763405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988826120104603648/qlvWl5oH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 208,
+          "like_count": 1046,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 3752
+        },
+        "username": "Vincy1230",
+        "verified": false
+      }
+    ]
+  }
+}

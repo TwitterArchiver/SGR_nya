@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2024713359699193951",
+    "created_at": "2026-02-20T05:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T06:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024722477784657935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515668818013696000",
+          "start": 0,
+          "username": "jym66662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024722477784657935",
+    "in_reply_to_user_id": "1515668818013696000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024722322603807065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jym66662 我不乱吃 感冒了😷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2024713359699193951",
+        "created_at": "2026-02-20T05:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024722477784657935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515668818013696000",
+              "start": 0,
+              "username": "jym66662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024722477784657935",
+        "in_reply_to_user_id": "1515668818013696000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024722322603807065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jym66662 我不乱吃 感冒了😷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515668818013696000",
+        "conversation_id": "2024713359699193951",
+        "created_at": "2026-02-20T05:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024722322603807065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024722322603807065",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024713359699193951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 草 不许乱吃x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62209,
+          "following_count": 2095,
+          "like_count": 51192,
+          "listed_count": 5,
+          "media_count": 460,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-17T12:29:50.000Z",
+        "description": "假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里须要镇静，相信吧，快乐的日子将会来临！心儿永远向往着未来…",
+        "id": "1515668818013696000",
+        "location": "加拿大 温哥华",
+        "name": "作业homework",
+        "pinned_tweet_id": "1992563536263049420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998258690886119425/OI1CI34x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 485,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 2731
+        },
+        "username": "jym66662",
+        "verified": false
+      }
+    ]
+  }
+}

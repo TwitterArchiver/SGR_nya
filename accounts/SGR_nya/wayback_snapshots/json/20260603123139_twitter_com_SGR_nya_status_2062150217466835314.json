@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062150209162055680"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2062150217466835314",
+    "created_at": "2026-06-03T12:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062150217466835314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ngn4fuzx11",
+          "end": 43,
+          "expanded_url": "https://x.com/SGR_nya/status/2062150217466835314/photo/1",
+          "media_key": "3_2062150209162055680",
+          "start": 20,
+          "url": "https://t.co/ngn4fuzx11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062150217466835314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "感觉大腿这里这个环涩涩的 谁懂（划掉） https://t.co/ngn4fuzx11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2062150209162055680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ46sIKaEAAX8fb.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062150209162055680"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2062150217466835314",
+        "created_at": "2026-06-03T12:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062150217466835314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ngn4fuzx11",
+              "end": 43,
+              "expanded_url": "https://x.com/SGR_nya/status/2062150217466835314/photo/1",
+              "media_key": "3_2062150209162055680",
+              "start": 20,
+              "url": "https://t.co/ngn4fuzx11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062150217466835314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "感觉大腿这里这个环涩涩的 谁懂（划掉） https://t.co/ngn4fuzx11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62890,
+          "following_count": 2076,
+          "like_count": 52645,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 848
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

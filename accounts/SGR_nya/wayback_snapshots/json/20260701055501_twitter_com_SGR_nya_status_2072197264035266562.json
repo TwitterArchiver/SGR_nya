@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2072188529694884289",
+    "created_at": "2026-07-01T05:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072197264035266562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836256614200020992",
+          "start": 0,
+          "username": "DimSumAgain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072197264035266562",
+    "in_reply_to_user_id": "1836256614200020992",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072188529694884289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DimSumAgain man～～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2072188529694884289",
+        "created_at": "2026-07-01T05:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072197264035266562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836256614200020992",
+              "start": 0,
+              "username": "DimSumAgain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072197264035266562",
+        "in_reply_to_user_id": "1836256614200020992",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072188529694884289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DimSumAgain man～～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836256614200020992",
+        "conversation_id": "2072188529694884289",
+        "created_at": "2026-07-01T05:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072188529694884289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "點心DimSum’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1lJQR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1lJQRRypLAYxE",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2072188531683074048/-EC8dTw-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072188531683074048/-EC8dTw-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 这会有人来吗？",
+              "unwound_url": "https://twitter.com/i/spaces/1lJQRRypLAYxE/peek",
+              "url": "https://t.co/jxuO3qQIkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072188529694884289",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jxuO3qQIkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63116,
+          "following_count": 2071,
+          "like_count": 53934,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 881
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-18T04:12:07.000Z",
+        "description": "直男和男娘两种形态随机切换 | 西雅图旅游地陪 | 新晋银趴组织者，接北美投稿 | ENFJ-T | 业余私房棚拍摄影师，只管拍不管修 | 友跨顺男·大车将翻 | 性取向是直的，接受女生/伪娘/TS | 雷达关键字：丝袜",
+        "id": "1836256614200020992",
+        "location": "Seattle, WA",
+        "name": "點心DimSum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009374805200404480/aib-p8ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 1091,
+          "like_count": 8210,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "DimSumAgain",
+        "verified": true
+      }
+    ]
+  }
+}

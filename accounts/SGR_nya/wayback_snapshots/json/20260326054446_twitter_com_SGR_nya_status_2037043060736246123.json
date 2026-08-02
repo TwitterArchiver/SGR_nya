@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2036749836389904427",
+    "created_at": "2026-03-26T05:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037043060736246123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "938410567198392320",
+          "start": 0,
+          "username": "ztyMAX141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037043060736246123",
+    "in_reply_to_user_id": "938410567198392320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036840014982881574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ztyMAX141 包的👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2036749836389904427",
+        "created_at": "2026-03-26T05:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037043060736246123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "938410567198392320",
+              "start": 0,
+              "username": "ztyMAX141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037043060736246123",
+        "in_reply_to_user_id": "938410567198392320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036840014982881574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ztyMAX141 包的👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "938410567198392320",
+        "conversation_id": "2036749836389904427",
+        "created_at": "2026-03-25T16:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T17:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036840014982881574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036840014982881574",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036749836389904427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 我靠，好久不见，你怎么成尼龙大手子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 中猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 超大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ultra猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62221,
+          "following_count": 2085,
+          "like_count": 51460,
+          "listed_count": 5,
+          "media_count": 414,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-06T14:11:28.000Z",
+        "description": "公无渡河 公竟渡河 堕河而死 其奈公何",
+        "id": "938410567198392320",
+        "location": "贵阳",
+        "name": "极乐空间",
+        "pinned_tweet_id": "1716124377887170857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511715071432355847/2H4zrxOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 1571,
+          "like_count": 10994,
+          "listed_count": 4,
+          "media_count": 176,
+          "tweet_count": 4139
+        },
+        "username": "ztyMAX141",
+        "verified": false
+      }
+    ]
+  }
+}

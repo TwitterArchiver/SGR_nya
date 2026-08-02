@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2064898689706160632",
+    "created_at": "2026-06-11T23:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065208083656343974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813783439008755713",
+          "start": 0,
+          "username": "AmemiyaSuzune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065208083656343974",
+    "in_reply_to_user_id": "1813783439008755713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065144854267748607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AmemiyaSuzune 辣的！辣的都喜欢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2064898689706160632",
+        "created_at": "2026-06-11T23:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065208083656343974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813783439008755713",
+              "start": 0,
+              "username": "AmemiyaSuzune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065208083656343974",
+        "in_reply_to_user_id": "1813783439008755713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065144854267748607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AmemiyaSuzune 辣的！辣的都喜欢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813783439008755713",
+        "conversation_id": "2064898689706160632",
+        "created_at": "2026-06-11T18:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065144854267748607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065144854267748607",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064898689706160632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63016,
+          "following_count": 2073,
+          "like_count": 52910,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T03:52:13.000Z",
+        "description": "我开始觉得，自己不用去改变什么，现在这样也挺好的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AmemiyaSuzune",
+                "end": 23,
+                "expanded_url": "http://t.me/AmemiyaSuzune",
+                "start": 0,
+                "url": "https://t.co/ACkgRLOZ4Y"
+              }
+            ]
+          }
+        },
+        "id": "1813783439008755713",
+        "location": "广州",
+        "name": "雨宫铃音",
+        "pinned_tweet_id": "2038156714936259042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043588294945189888/JVde-lQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 149,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/ACkgRLOZ4Y",
+        "username": "AmemiyaSuzune",
+        "verified": false
+      }
+    ]
+  }
+}

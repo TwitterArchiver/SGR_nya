@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032250719760433152"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2032250723287941553",
+    "created_at": "2026-03-13T00:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T01:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032250723287941553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to the group 之前群炸了原来的名字叫啥我也忘了所以先叫这个吧. Click above to",
+          "display_url": "t.me/+SR7JXlRgyfswN…",
+          "end": 55,
+          "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2032250727943516160/JjqAHCDJ?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2032250727943516160/JjqAHCDJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "之前群炸了原来的名字叫啥我也忘了所以先叫这个吧",
+          "unwound_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+          "url": "https://t.co/HdCgDxZXrB"
+        },
+        {
+          "display_url": "pic.x.com/72DCRO9ruS",
+          "end": 97,
+          "expanded_url": "https://x.com/SGR_nya/status/2032250723287941553/photo/1",
+          "media_key": "3_2032250719760433152",
+          "start": 74,
+          "url": "https://t.co/72DCRO9ruS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032250723287941553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前tg群炸了，因为emotional damage（不是）\n\nhttps://t.co/HdCgDxZXrB\n\n这个是新链接_(´ཀ`」 ∠)_ https://t.co/72DCRO9ruS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2032250719760433152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQBQyXaQAApj_J.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032250719760433152"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2032250723287941553",
+        "created_at": "2026-03-13T00:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T01:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032250723287941553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to the group 之前群炸了原来的名字叫啥我也忘了所以先叫这个吧. Click above to",
+              "display_url": "t.me/+SR7JXlRgyfswN…",
+              "end": 55,
+              "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2032250727943516160/JjqAHCDJ?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032250727943516160/JjqAHCDJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "之前群炸了原来的名字叫啥我也忘了所以先叫这个吧",
+              "unwound_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+              "url": "https://t.co/HdCgDxZXrB"
+            },
+            {
+              "display_url": "pic.x.com/72DCRO9ruS",
+              "end": 97,
+              "expanded_url": "https://x.com/SGR_nya/status/2032250723287941553/photo/1",
+              "media_key": "3_2032250719760433152",
+              "start": 74,
+              "url": "https://t.co/72DCRO9ruS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032250723287941553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前tg群炸了，因为emotional damage（不是）\n\nhttps://t.co/HdCgDxZXrB\n\n这个是新链接_(´ཀ`」 ∠)_ https://t.co/72DCRO9ruS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 中猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 超大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ultra猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝",
+        "id": "1130781616274468864",
+        "location": "万达广场附近",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62270,
+          "following_count": 2086,
+          "like_count": 51343,
+          "listed_count": 6,
+          "media_count": 409,
+          "tweet_count": 765
+        },
+        "username": "SGR_nya",
+        "verified": false
+      }
+    ]
+  }
+}

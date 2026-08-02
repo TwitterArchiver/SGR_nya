@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2007819384887337256",
+    "created_at": "2026-01-07T05:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008776304460763609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008776304460763609",
+    "in_reply_to_user_id": "1130781616274468864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007819384887337256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 哥 给我穿个比基尼 谢谢哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1749,
+        "media_key": "3_2007819372535201792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G901FNkbwAAzodY.jpg",
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2007819384887337256",
+        "created_at": "2026-01-07T05:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008776304460763609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008776304460763609",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007819384887337256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 哥 给我穿个比基尼 谢谢哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007819372535201792"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2007819384887337256",
+        "created_at": "2026-01-04T14:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007819384887337256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0vnCXnhmCe",
+              "end": 35,
+              "expanded_url": "https://x.com/SGR_nya/status/2007819384887337256/photo/1",
+              "media_key": "3_2007819372535201792",
+              "start": 12,
+              "url": "https://t.co/0vnCXnhmCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007819384887337256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1570,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘上古怀旧皮肤（？） https://t.co/0vnCXnhmCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "❤️,💔⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62000,
+          "following_count": 2094,
+          "like_count": 50801,
+          "listed_count": 4,
+          "media_count": 451,
+          "tweet_count": 809
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7268613,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5696,
+          "media_count": 6704113,
+          "tweet_count": 85968007
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

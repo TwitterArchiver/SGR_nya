@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2031185060897108340",
+    "created_at": "2026-03-10T04:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T05:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031231116095664189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "8964_xy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031231116095664189",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031185060897108340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_xy11 可能是地域文化差异吧 我们这边戴太多的融不进来 大家都是优衣库全家桶活人微死穿搭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2031185060897108340",
+        "created_at": "2026-03-10T04:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T05:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031231116095664189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "8964_xy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031231116095664189",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031185060897108340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_xy11 可能是地域文化差异吧 我们这边戴太多的融不进来 大家都是优衣库全家桶活人微死穿搭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2031185060897108340",
+        "created_at": "2026-03-10T01:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T02:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031185060897108340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031185060897108340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5430,
+          "like_count": 53,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备去美国留学了\n爸妈给我50w当学费\n我想先买一条5w的梵克雅宝手链\n大家觉得可以吗？\n真的很喜欢\n而且不戴奢侈品也怕融不进留学的圈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 中猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 超大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ultra猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝",
+        "id": "1130781616274468864",
+        "location": "万达广场附近",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62372,
+          "following_count": 2094,
+          "like_count": 51346,
+          "listed_count": 6,
+          "media_count": 407,
+          "tweet_count": 763
+        },
+        "username": "SGR_nya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "🩸声明：账号内容皆为虚构请勿较真 （您不审判我=我支持您的自由）｜欢迎私信｜【+V无🚪但请备注 账号：EgoDeathSoWhat】匿名提问⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLUAkw"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "虚构小镇",
+        "name": "曦夜今天吃什么",
+        "pinned_tweet_id": "2026875222830522788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002294091670061056/Zq2B7QNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 862,
+          "like_count": 45671,
+          "listed_count": 8,
+          "media_count": 54,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/j6vldLUAkw",
+        "username": "8964_xy11",
+        "verified": false
+      }
+    ]
+  }
+}

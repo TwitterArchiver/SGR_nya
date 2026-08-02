@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2018613362171789625",
+    "created_at": "2026-02-04T03:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T04:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018889131678675205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893026488662007810",
+          "start": 0,
+          "username": "youmu0187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018889131678675205",
+    "in_reply_to_user_id": "1893026488662007810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018613362171789625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmu0187 不需要像上班打卡一样联系就能维持的关系才是好关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2018613362171789625",
+        "created_at": "2026-02-04T03:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018889131678675205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893026488662007810",
+              "start": 0,
+              "username": "youmu0187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018889131678675205",
+        "in_reply_to_user_id": "1893026488662007810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018613362171789625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmu0187 不需要像上班打卡一样联系就能维持的关系才是好关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893026488662007810",
+        "conversation_id": "2018613362171789625",
+        "created_at": "2026-02-03T09:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018613362171789625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youmu0187/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/youmu0187/status/2018610107895210362",
+              "start": 55,
+              "url": "https://t.co/cXjj3xtRbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018613362171789625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018610107895210362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但如果只是“想起来才会联系”，那关系之间的紧密程度又靠什么维系呢，感觉就是想不通这个问题，也从来不会抱有信任 https://t.co/cXjj3xtRbg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62125,
+          "following_count": 2095,
+          "like_count": 51007,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T19:54:32.000Z",
+        "description": "不定期存放点随笔，偶尔去发现些有趣事情，需回fo可私信或留言。小号：@AnonChishaya 目前主要用于存放些个人记录，仅对熟人开放。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "AnonChishaya"
+              }
+            ]
+          }
+        },
+        "id": "1893026488662007810",
+        "name": "幽沐",
+        "pinned_tweet_id": "1960750862470668747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965804929576214528/qK5YFJA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 303,
+          "like_count": 7807,
+          "listed_count": 5,
+          "media_count": 323,
+          "tweet_count": 5023
+        },
+        "username": "youmu0187",
+        "verified": false
+      }
+    ]
+  }
+}

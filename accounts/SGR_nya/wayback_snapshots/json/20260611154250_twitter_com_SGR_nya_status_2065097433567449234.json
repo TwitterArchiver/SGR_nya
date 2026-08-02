@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2065097433567449234",
+    "created_at": "2026-06-11T15:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065097433567449234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SGR_nya/status…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/SGR_nya/status/2065096236332724370",
+          "start": 45,
+          "url": "https://t.co/sSyNO1u20W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065097433567449234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065096236332724370",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实顺带提一嘴，我eve伴飞大航的重拦和fax分别叫陪伴和守护，这可能就是我心中的答案吧 https://t.co/sSyNO1u20W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2065097433567449234",
+        "created_at": "2026-06-11T15:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065097433567449234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SGR_nya/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/SGR_nya/status/2065096236332724370",
+              "start": 45,
+              "url": "https://t.co/sSyNO1u20W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065097433567449234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065096236332724370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实顺带提一嘴，我eve伴飞大航的重拦和fax分别叫陪伴和守护，这可能就是我心中的答案吧 https://t.co/sSyNO1u20W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2064898689706160632",
+        "created_at": "2026-06-11T15:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065096236332724370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515668818013696000",
+              "start": 0,
+              "username": "jym66662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065096236332724370",
+        "in_reply_to_user_id": "1515668818013696000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065072820137427165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@jym66662 爱是什么吗，我觉得这是一个很难定义的东西，一千个人心中有一千个标准\n从我的观点，爱是坚定选择，是责任，爱是占有欲，保护欲，爱是陪伴，是守护"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63016,
+          "following_count": 2073,
+          "like_count": 52910,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

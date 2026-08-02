@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2026537150200819877",
+    "created_at": "2026-02-25T08:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026567993313079529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977321626917330946",
+          "start": 0,
+          "username": "GaiJiao96605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026567993313079529",
+    "in_reply_to_user_id": "1977321626917330946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026567822709838052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GaiJiao96605 会被别人拿错x谁也不知道哪把是谁的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2026537150200819877",
+        "created_at": "2026-02-25T08:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026567993313079529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977321626917330946",
+              "start": 0,
+              "username": "GaiJiao96605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026567993313079529",
+        "in_reply_to_user_id": "1977321626917330946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026567822709838052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GaiJiao96605 会被别人拿错x谁也不知道哪把是谁的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977321626917330946",
+        "conversation_id": "2026537150200819877",
+        "created_at": "2026-02-25T07:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026567822709838052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026567822709838052",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026537150200819877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 为啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62321,
+          "following_count": 2095,
+          "like_count": 51256,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T10:33:16.000Z",
+        "description": "我不到啊 初三废物一个尊重mtf ,爱国爱党。种族歧视、地域歧视、优越论、无脑黑、二极管的都滚啊!",
+        "id": "1977321626917330946",
+        "name": "这该叫啥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025402572564299777/69flV9tZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 157,
+          "like_count": 44182,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 755
+        },
+        "username": "GaiJiao96605",
+        "verified": false
+      }
+    ]
+  }
+}

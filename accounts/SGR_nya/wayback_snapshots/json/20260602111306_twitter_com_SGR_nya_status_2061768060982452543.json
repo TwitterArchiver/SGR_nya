@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061756827424202752"
+      ],
+      "media_source_tweet_id": [
+        "2061756832818012530"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2061768060982452543",
+    "created_at": "2026-06-02T11:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061768060982452543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040771859247996928",
+          "start": 3,
+          "username": "tus_ma__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5U19eRvTx",
+          "end": 64,
+          "expanded_url": "https://x.com/tus_ma__/status/2061756832818012530/photo/1",
+          "media_key": "3_2061756827424202752",
+          "start": 41,
+          "url": "https://t.co/o5U19eRvTx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061768060982452543",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061756832818012530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tus_ma__: 台風の中でも授業を強行する最強の大学群\n\n早　理　明 https://t.co/o5U19eRvTx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 517,
+        "media_key": "3_2061756827424202752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzU6S_bIAAHuFC.jpg",
+        "width": 667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061756827424202752"
+          ],
+          "media_source_tweet_id": [
+            "2061756832818012530"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2061768060982452543",
+        "created_at": "2026-06-02T11:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061768060982452543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040771859247996928",
+              "start": 3,
+              "username": "tus_ma__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5U19eRvTx",
+              "end": 64,
+              "expanded_url": "https://x.com/tus_ma__/status/2061756832818012530/photo/1",
+              "media_key": "3_2061756827424202752",
+              "start": 41,
+              "url": "https://t.co/o5U19eRvTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061768060982452543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061756832818012530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tus_ma__: 台風の中でも授業を強行する最強の大学群\n\n早　理　明 https://t.co/o5U19eRvTx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061756827424202752"
+          ]
+        },
+        "author_id": "2040771859247996928",
+        "conversation_id": "2061756832818012530",
+        "created_at": "2026-06-02T10:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061756832818012530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5U19eRvTx",
+              "end": 50,
+              "expanded_url": "https://x.com/tus_ma__/status/2061756832818012530/photo/1",
+              "media_key": "3_2061756827424202752",
+              "start": 27,
+              "url": "https://t.co/o5U19eRvTx"
+            },
+            {
+              "display_url": "x.com/tus_ma__/statu…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/tus_ma__/status/2061741822364496224",
+              "start": 51,
+              "url": "https://t.co/Ai9dcdeCYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061756832818012530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1773,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061741822364496224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "台風の中でも授業を強行する最強の大学群\n\n早　理　明 https://t.co/o5U19eRvTx https://t.co/Ai9dcdeCYi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62871,
+          "following_count": 2076,
+          "like_count": 52589,
+          "listed_count": 4,
+          "media_count": 434,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T12:41:53.000Z",
+        "description": "07/tus ma/生き様で魅せます",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/5nssgwlevybppm…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/5nssgwlevybppm?t=lqDiXp&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/cgscpSUoJZ"
+              }
+            ]
+          }
+        },
+        "id": "2040771859247996928",
+        "name": "/創域",
+        "pinned_tweet_id": "2052449208394027519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041185675178029057/JXBhLuiF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 547,
+          "like_count": 1999,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 2558
+        },
+        "url": "https://t.co/cgscpSUoJZ",
+        "username": "tus_ma__",
+        "verified": false
+      }
+    ]
+  }
+}

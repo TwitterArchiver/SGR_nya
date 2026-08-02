@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083767317000007680"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2083767320888181122",
+    "created_at": "2026-08-02T04:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083767320888181122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4dOQivMMNy",
+          "end": 23,
+          "expanded_url": "https://x.com/SGR_nya/status/2083767320888181122/photo/1",
+          "media_key": "3_2083767317000007680",
+          "start": 0,
+          "url": "https://t.co/4dOQivMMNy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083767320888181122",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "https://t.co/4dOQivMMNy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2083767317000007680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsHVaRasAArGt8.jpg",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083767317000007680"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2083767320888181122",
+        "created_at": "2026-08-02T04:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083767320888181122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4dOQivMMNy",
+              "end": 23,
+              "expanded_url": "https://x.com/SGR_nya/status/2083767320888181122/photo/1",
+              "media_key": "3_2083767317000007680",
+              "start": 0,
+              "url": "https://t.co/4dOQivMMNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083767320888181122",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/4dOQivMMNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "希古列",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63234,
+          "following_count": 2073,
+          "like_count": 54719,
+          "listed_count": 4,
+          "media_count": 450,
+          "tweet_count": 866
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

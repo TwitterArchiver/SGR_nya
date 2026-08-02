@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2015723330071138393",
+    "created_at": "2026-01-26T23:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T00:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015926173122134374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1591524062488297472",
+          "start": 0,
+          "username": "exzasev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015926173122134374",
+    "in_reply_to_user_id": "1591524062488297472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015723330071138393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exzasev 半夜做噩梦醒了来一句呢（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2015723330071138393",
+        "created_at": "2026-01-26T23:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T00:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015926173122134374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1591524062488297472",
+              "start": 0,
+              "username": "exzasev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015926173122134374",
+        "in_reply_to_user_id": "1591524062488297472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015723330071138393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exzasev 半夜做噩梦醒了来一句呢（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591524062488297472",
+        "conversation_id": "2015723330071138393",
+        "created_at": "2026-01-26T09:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015723330071138393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015723330071138393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19458,
+          "like_count": 173,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然来一句想你了尤其是凌晨\n这和直接明示自己出轨了一点区别没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62119,
+          "following_count": 2094,
+          "like_count": 50978,
+          "listed_count": 5,
+          "media_count": 457,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-12T20:11:30.000Z",
+        "description": "18岁性感少妇",
+        "id": "1591524062488297472",
+        "location": "比基尼海滩",
+        "name": "Exzasev",
+        "pinned_tweet_id": "1971521335701786937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008264844936704000/CQpEFqAt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 187,
+          "like_count": 9842,
+          "listed_count": 0,
+          "media_count": 727,
+          "tweet_count": 2963
+        },
+        "username": "exzasev",
+        "verified": false
+      }
+    ]
+  }
+}

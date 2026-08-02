@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2068332309632450736",
+    "created_at": "2026-06-21T00:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T01:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068490362486952404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068490362486952404",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068332309632450736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 好奇x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2068332309632450736",
+        "created_at": "2026-06-21T00:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068490362486952404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068490362486952404",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068332309632450736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 好奇x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2068332309632450736",
+        "created_at": "2026-06-20T13:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068332309632450736"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 61,
+              "tag": "让我们互相投掷棉花糖"
+            }
+          ],
+          "urls": [
+            {
+              "description": "優杏@Poi🍧さんの回答「简单来说就是面基然后成为朋友然后开始暧昧然后被表白然后再一起了（ 但前因后果起承转合有点复杂以后再说（（（」",
+              "display_url": "marshmallow-qa.com/messages/bc052…",
+              "end": 96,
+              "expanded_url": "https://marshmallow-qa.com/messages/bc052846-b936-4892-bd69-7c5c7e0c930b?utm_medium=twitter&utm_source=answer",
+              "images": [
+                {
+                  "height": 325,
+                  "url": "https://pbs.twimg.com/news_img/2068332309988904960/UCN5CS2F?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2068332309988904960/UCN5CS2F?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "和莉莉是怎么走到一起的👀 | マシュマロ",
+              "unwound_url": "https://marshmallow-qa.com/messages/bc052846-b936-4892-bd69-7c5c7e0c930b?utm_medium=twitter&utm_source=answer",
+              "url": "https://t.co/JOqBzTqiv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068332309632450736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1004,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简单来说就是先是网友然后面基然后成为朋友然后开始暧昧然后被表白然后再一起了（\n\n但前因后果起承转合有点复杂以后再说（（（\n#让我们互相投掷棉花糖\nhttps://t.co/JOqBzTqiv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63040,
+          "following_count": 2070,
+          "like_count": 53251,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@penguinmomentjp\n日常/小市民；不友也不厌任何群体，\n爱具体的人。\n小号@POI74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🍧",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4442,
+          "following_count": 330,
+          "like_count": 69753,
+          "listed_count": 17,
+          "media_count": 3136,
+          "tweet_count": 26078
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

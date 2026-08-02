@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2014594301775511922",
+    "created_at": "2026-01-23T09:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T10:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014631872387768512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862930523016032256",
+          "start": 0,
+          "username": "HibarigaokaNene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014631872387768512",
+    "in_reply_to_user_id": "1862930523016032256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014594401050493074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HibarigaokaNene 在emo抖机灵并不会让人变开心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2014594301775511922",
+        "created_at": "2026-01-23T09:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014631872387768512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862930523016032256",
+              "start": 0,
+              "username": "HibarigaokaNene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014631872387768512",
+        "in_reply_to_user_id": "1862930523016032256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014594401050493074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HibarigaokaNene 在emo抖机灵并不会让人变开心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862930523016032256",
+        "conversation_id": "2014594301775511922",
+        "created_at": "2026-01-23T07:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014594401050493074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014594401050493074",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014594301775511922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 我打钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62087,
+          "following_count": 2093,
+          "like_count": 50946,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T18:43:50.000Z",
+        "description": "中国語勉強中💜💚HibarigaokaNene🧀見ないで理解できないでしょ？prsk/ニーゴ·ワンダショ/Victoria3/TransportFever2/穏健保守リベラル/サナ推し",
+        "id": "1862930523016032256",
+        "location": "ベーカリーAlouette ひばりヶ丘駅前",
+        "name": "寧々",
+        "pinned_tweet_id": "1988195584537489594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995725727761924097/GF-LPw3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 236,
+          "like_count": 19385,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1827
+        },
+        "username": "HibarigaokaNene",
+        "verified": false
+      }
+    ]
+  }
+}

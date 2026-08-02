@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073267789960552449",
+        "3_2073267789893451776",
+        "3_2073267789906034688"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2073267800735727623",
+    "created_at": "2026-07-04T04:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073267800735727623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0d2D7wrH33",
+          "end": 41,
+          "expanded_url": "https://x.com/SGR_nya/status/2073267800735727623/photo/1",
+          "media_key": "3_2073267789960552449",
+          "start": 18,
+          "url": "https://t.co/0d2D7wrH33"
+        },
+        {
+          "display_url": "pic.x.com/0d2D7wrH33",
+          "end": 41,
+          "expanded_url": "https://x.com/SGR_nya/status/2073267800735727623/photo/1",
+          "media_key": "3_2073267789893451776",
+          "start": 18,
+          "url": "https://t.co/0d2D7wrH33"
+        },
+        {
+          "display_url": "pic.x.com/0d2D7wrH33",
+          "end": 41,
+          "expanded_url": "https://x.com/SGR_nya/status/2073267800735727623/photo/1",
+          "media_key": "3_2073267789906034688",
+          "start": 18,
+          "url": "https://t.co/0d2D7wrH33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073267800735727623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "我都花钱买了难道还要花时间穿吗系列 https://t.co/0d2D7wrH33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2073267789960552449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMW6EgDboAEAdFO.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2073267789893451776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMW6EfzbwAAfanN.jpg",
+        "width": 960
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2073267789906034688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMW6Ef2bwAAFOe8.jpg",
+        "width": 1923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073267789960552449",
+            "3_2073267789893451776",
+            "3_2073267789906034688"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2073267800735727623",
+        "created_at": "2026-07-04T04:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073267800735727623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0d2D7wrH33",
+              "end": 41,
+              "expanded_url": "https://x.com/SGR_nya/status/2073267800735727623/photo/1",
+              "media_key": "3_2073267789960552449",
+              "start": 18,
+              "url": "https://t.co/0d2D7wrH33"
+            },
+            {
+              "display_url": "pic.x.com/0d2D7wrH33",
+              "end": 41,
+              "expanded_url": "https://x.com/SGR_nya/status/2073267800735727623/photo/1",
+              "media_key": "3_2073267789893451776",
+              "start": 18,
+              "url": "https://t.co/0d2D7wrH33"
+            },
+            {
+              "display_url": "pic.x.com/0d2D7wrH33",
+              "end": 41,
+              "expanded_url": "https://x.com/SGR_nya/status/2073267800735727623/photo/1",
+              "media_key": "3_2073267789906034688",
+              "start": 18,
+              "url": "https://t.co/0d2D7wrH33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073267800735727623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我都花钱买了难道还要花时间穿吗系列 https://t.co/0d2D7wrH33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63123,
+          "following_count": 2072,
+          "like_count": 54025,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

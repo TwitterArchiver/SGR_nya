@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043214720073957377"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2043214727623709149",
+    "created_at": "2026-04-12T06:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043214727623709149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tYvLQFMRO9",
+          "end": 40,
+          "expanded_url": "https://x.com/SGR_nya/status/2043214727623709149/photo/1",
+          "media_key": "3_2043214720073957377",
+          "start": 17,
+          "url": "https://t.co/tYvLQFMRO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043214727623709149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "也是当上精品神人了就是说\n😮‍💨 https://t.co/tYvLQFMRO9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3067,
+        "media_key": "3_2043214720073957377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFr09mXbgAElf4V.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043214720073957377"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2043214727623709149",
+        "created_at": "2026-04-12T06:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043214727623709149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYvLQFMRO9",
+              "end": 40,
+              "expanded_url": "https://x.com/SGR_nya/status/2043214727623709149/photo/1",
+              "media_key": "3_2043214720073957377",
+              "start": 17,
+              "url": "https://t.co/tYvLQFMRO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043214727623709149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "也是当上精品神人了就是说\n😮‍💨 https://t.co/tYvLQFMRO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61516,
+          "following_count": 2082,
+          "like_count": 51646,
+          "listed_count": 6,
+          "media_count": 419,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

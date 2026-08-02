@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072333589841321984"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2072333621172875748",
+    "created_at": "2026-07-01T14:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072333621172875748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a6goX8mJ2r",
+          "end": 32,
+          "expanded_url": "https://x.com/SGR_nya/status/2072333621172875748/photo/1",
+          "media_key": "3_2072333589841321984",
+          "start": 9,
+          "url": "https://t.co/a6goX8mJ2r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072333621172875748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "这个是广式水族馆 https://t.co/a6goX8mJ2r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2072333589841321984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJoa5aaIAAaUcQ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072333589841321984"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2072333621172875748",
+        "created_at": "2026-07-01T14:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072333621172875748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6goX8mJ2r",
+              "end": 32,
+              "expanded_url": "https://x.com/SGR_nya/status/2072333621172875748/photo/1",
+              "media_key": "3_2072333589841321984",
+              "start": 9,
+              "url": "https://t.co/a6goX8mJ2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072333621172875748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "这个是广式水族馆 https://t.co/a6goX8mJ2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63115,
+          "following_count": 2071,
+          "like_count": 53982,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

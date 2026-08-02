@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2076864043831480324",
+    "created_at": "2026-07-14T02:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076864043831480324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to the group 之前的群又炸了新群叫什么好我也不知道就先这样吧. Click above to",
+          "display_url": "telegram.me/+AWyUpotng-U3M…",
+          "end": 23,
+          "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2076864044078923776/INzmK8wA?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2076864044078923776/INzmK8wA?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "之前的群又炸了新群叫什么好我也不知道就先这样吧",
+          "unwound_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+          "url": "https://t.co/g7gDWXEwuM"
+        },
+        {
+          "description": "Fast. Secure. Powerful.",
+          "display_url": "t.me",
+          "end": 47,
+          "expanded_url": "http://t.me",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2076628069545291776/1ffRka0C?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2076628069545291776/1ffRka0C?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "Telegram – a new era of messaging",
+          "unwound_url": "https://telegram.org/",
+          "url": "https://t.co/VTwhpKbXT6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076864043831480324",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "https://t.co/g7gDWXEwuM\nhttps://t.co/VTwhpKbXT6的无了换个链接x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2076864043831480324",
+        "created_at": "2026-07-14T02:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076864043831480324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to the group 之前的群又炸了新群叫什么好我也不知道就先这样吧. Click above to",
+              "display_url": "telegram.me/+AWyUpotng-U3M…",
+              "end": 23,
+              "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2076864044078923776/INzmK8wA?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076864044078923776/INzmK8wA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "之前的群又炸了新群叫什么好我也不知道就先这样吧",
+              "unwound_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+              "url": "https://t.co/g7gDWXEwuM"
+            },
+            {
+              "description": "Fast. Secure. Powerful.",
+              "display_url": "t.me",
+              "end": 47,
+              "expanded_url": "http://t.me",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2076628069545291776/1ffRka0C?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076628069545291776/1ffRka0C?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Telegram – a new era of messaging",
+              "unwound_url": "https://telegram.org/",
+              "url": "https://t.co/VTwhpKbXT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076864043831480324",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/g7gDWXEwuM\nhttps://t.co/VTwhpKbXT6的无了换个链接x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63172,
+          "following_count": 2072,
+          "like_count": 54384,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

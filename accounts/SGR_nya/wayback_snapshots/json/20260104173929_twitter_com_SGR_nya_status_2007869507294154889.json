@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2007869507294154889",
+    "created_at": "2026-01-04T17:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007869507294154889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007869507294154889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我那件优衣库神秘4xl灰不拉几外套，穿了四年了，其实已经有洗不掉的污渍和轻微破损了，甚至帽绳都不是原装的了\n但是还是不舍得换掉，优衣库的东西也不值钱，只是已经穿出很深的感情了 \n我这人或许就是这样的吧，对有感情的事物，即使再破也不舍得轻易丢掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2007869507294154889",
+        "created_at": "2026-01-04T17:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T18:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007869507294154889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007869507294154889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我那件优衣库神秘4xl灰不拉几外套，穿了四年了，其实已经有洗不掉的污渍和轻微破损了，甚至帽绳都不是原装的了\n但是还是不舍得换掉，优衣库的东西也不值钱，只是已经穿出很深的感情了 \n我这人或许就是这样的吧，对有感情的事物，即使再破也不舍得轻易丢掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "最喜欢的姐姐@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61953,
+          "following_count": 2095,
+          "like_count": 50823,
+          "listed_count": 4,
+          "media_count": 451,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

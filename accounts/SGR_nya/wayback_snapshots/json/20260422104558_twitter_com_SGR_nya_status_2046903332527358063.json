@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2046903332527358063",
+    "created_at": "2026-04-22T10:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046903332527358063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearl0812lucky…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/pearl0812lucky/status/2046863773018079259",
+          "start": 22,
+          "url": "https://t.co/XEBxRVAh3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046903332527358063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046863773018079259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "谢谢你曾经来过，我会一直记得你的。愿你安好 https://t.co/XEBxRVAh3O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2046903332527358063",
+        "created_at": "2026-04-22T10:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046903332527358063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2046863773018079259",
+              "start": 22,
+              "url": "https://t.co/XEBxRVAh3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046903332527358063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046863773018079259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "谢谢你曾经来过，我会一直记得你的。愿你安好 https://t.co/XEBxRVAh3O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2046863773018079259",
+        "created_at": "2026-04-22T08:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046863773018079259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046863773018079259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8470,
+          "like_count": 42,
+          "quote_count": 9,
+          "reply_count": 99,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你最想对闹掰的朋友说什么："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61651,
+          "following_count": 2085,
+          "like_count": 51853,
+          "listed_count": 6,
+          "media_count": 418,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6008,
+          "following_count": 58,
+          "like_count": 6174,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1521
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

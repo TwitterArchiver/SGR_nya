@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026287901055868928"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2026287906005156081",
+    "created_at": "2026-02-24T13:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026287906005156081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fDVSXuqiZ4",
+          "end": 35,
+          "expanded_url": "https://x.com/SGR_nya/status/2026287906005156081/photo/1",
+          "media_key": "3_2026287901055868928",
+          "start": 12,
+          "url": "https://t.co/fDVSXuqiZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026287906005156081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "这才是真正的中式恐怖： https://t.co/fDVSXuqiZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1028,
+        "media_key": "3_2026287901055868928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7SHDsbYAAuAjF.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026287901055868928"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2026287906005156081",
+        "created_at": "2026-02-24T13:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026287906005156081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fDVSXuqiZ4",
+              "end": 35,
+              "expanded_url": "https://x.com/SGR_nya/status/2026287906005156081/photo/1",
+              "media_key": "3_2026287901055868928",
+              "start": 12,
+              "url": "https://t.co/fDVSXuqiZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026287906005156081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "这才是真正的中式恐怖： https://t.co/fDVSXuqiZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62322,
+          "following_count": 2095,
+          "like_count": 51255,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": false
+      }
+    ]
+  }
+}

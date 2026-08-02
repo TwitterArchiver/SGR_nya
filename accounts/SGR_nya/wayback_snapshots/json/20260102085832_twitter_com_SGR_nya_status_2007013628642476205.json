@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2003911421344862614",
+    "created_at": "2026-01-02T08:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007013628642476205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1837188178668879872",
+          "start": 0,
+          "username": "HoshinoMako0131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007013628642476205",
+    "in_reply_to_user_id": "1837188178668879872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003911421344862614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshinoMako0131 他曾经告诉我过这个影响不大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003911409223241728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G89SzzwakAAD8OT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2003911421344862614",
+        "created_at": "2026-01-02T08:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007013628642476205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1837188178668879872",
+              "start": 0,
+              "username": "HoshinoMako0131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007013628642476205",
+        "in_reply_to_user_id": "1837188178668879872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003911421344862614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshinoMako0131 他曾经告诉我过这个影响不大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003911409223241728"
+          ]
+        },
+        "author_id": "1837188178668879872",
+        "conversation_id": "2003911421344862614",
+        "created_at": "2025-12-24T19:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T20:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003911421344862614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9yyLhaicd1",
+              "end": 38,
+              "expanded_url": "https://x.com/HoshinoMako0131/status/2003911421344862614/photo/1",
+              "media_key": "3_2003911409223241728",
+              "start": 15,
+              "url": "https://t.co/9yyLhaicd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003911421344862614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最好别比赛之前给我出幺蛾子😭 https://t.co/9yyLhaicd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "最喜欢的姐姐@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61879,
+          "following_count": 2095,
+          "like_count": 50797,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-20T17:53:04.000Z",
+        "description": "负能量警告⚠️｜精神病性抑郁→2025.4.7更新：双相情感障碍｜165cm / 65kg｜音游｜复合弓｜含糖｜电吉他 ｜一般飞鹰驾驶姬丨The Finals轻型",
+        "id": "1837188178668879872",
+        "location": "阴暗的小房间",
+        "name": "HoshinoMako 星野茉子",
+        "pinned_tweet_id": "2006831362435854492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966453376230866944/Z3s4WCL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 125,
+          "like_count": 463,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 338
+        },
+        "username": "HoshinoMako0131",
+        "verified": false
+      }
+    ]
+  }
+}

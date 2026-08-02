@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2082778099834601913",
+    "created_at": "2026-07-30T10:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082778099834601913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "45015740",
+          "start": 3,
+          "username": "jasteinerman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082778099834601913",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082495092334412202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jasteinerman: there's zero need to destroy books in order to scan them, when scanners like this have existed for years and can do 2,500…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22400,
+        "height": 900,
+        "media_key": "13_2082495068573671424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082495068573671424/img/0L83KM24byzYlfqZ.jpg",
+        "public_metrics": {
+          "view_count": 99835
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082495068573671424/vid/avc1/320x400/w8OB8DfTlPLi6xIT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082495068573671424/vid/avc1/480x600/eRGqbrvB5qMcEuLq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082495068573671424/vid/avc1/720x900/2HWKRZf4o5pUy4YE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082495068573671424/pl/-IJlWQqI-zDHfJku.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2082778099834601913",
+        "created_at": "2026-07-30T10:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082778099834601913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "45015740",
+              "start": 3,
+              "username": "jasteinerman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082778099834601913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082495092334412202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jasteinerman: there's zero need to destroy books in order to scan them, when scanners like this have existed for years and can do 2,500…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082495068573671424"
+          ]
+        },
+        "author_id": "45015740",
+        "conversation_id": "2082495092334412202",
+        "created_at": "2026-07-29T15:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082495092334412202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAbRzvBUIF",
+              "end": 156,
+              "expanded_url": "https://x.com/jasteinerman/status/2082495092334412202/video/1",
+              "media_key": "13_2082495068573671424",
+              "start": 133,
+              "url": "https://t.co/JAbRzvBUIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082495092334412202",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 217468,
+          "like_count": 1126,
+          "quote_count": 13,
+          "reply_count": 71,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "there's zero need to destroy books in order to scan them, when scanners like this have existed for years and can do 2,500 pages/hour https://t.co/JAbRzvBUIF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngEo0V"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "シグレ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63232,
+          "following_count": 2072,
+          "like_count": 54687,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/yQ32ngEo0V",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-05T22:31:54.000Z",
+        "description": "Developer Relations @CesiumJS 🌎 | AR/VR/XR → Geo AI | ex-Meta, Spatial, PTC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "CesiumJS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasteinerman.lovable.app",
+                "end": 23,
+                "expanded_url": "https://jasteinerman.lovable.app",
+                "start": 0,
+                "url": "https://t.co/jmg02hny9G"
+              }
+            ]
+          }
+        },
+        "id": "45015740",
+        "name": "Jake Steinerman 🌎",
+        "pinned_tweet_id": "2036417774776381844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994434174552260608/_LsL_dMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8232,
+          "following_count": 1825,
+          "like_count": 40218,
+          "listed_count": 171,
+          "media_count": 3510,
+          "tweet_count": 14486
+        },
+        "url": "https://t.co/jmg02hny9G",
+        "username": "jasteinerman",
+        "verified": false
+      }
+    ]
+  }
+}

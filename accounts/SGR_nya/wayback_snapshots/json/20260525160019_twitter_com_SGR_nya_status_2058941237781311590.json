@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2058938038441631920",
+    "created_at": "2026-05-25T16:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058941237781311590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058941237781311590",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058938038441631920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 ⬅️被表白就一个，还被我reject了\n然后我表白的话感觉算是0.5 因为没真表出来，纠结了一个小时没敢发 最后截了个草稿框发了个推 结果被本人抓到截图来问（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2058938038441631920",
+        "created_at": "2026-05-25T16:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058941237781311590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058941237781311590",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058938038441631920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 ⬅️被表白就一个，还被我reject了\n然后我表白的话感觉算是0.5 因为没真表出来，纠结了一个小时没敢发 最后截了个草稿框发了个推 结果被本人抓到截图来问（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2058938038441631920",
+        "created_at": "2026-05-25T15:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058938038441631920"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 57,
+              "tag": "让我们互相投掷棉花糖"
+            }
+          ],
+          "urls": [
+            {
+              "description": "優杏@Poi🍧さんの回答「被三个人表白过，在此之外和另一人有过很长时间的在网络上的暧昧关系（大概10个月）但并没有被表白（ 和0人表白过」",
+              "display_url": "marshmallow-qa.com/messages/22532…",
+              "end": 92,
+              "expanded_url": "https://marshmallow-qa.com/messages/22532ed1-8541-4ea1-804e-a4065c092d5a?utm_medium=twitter&utm_source=answer",
+              "images": [
+                {
+                  "height": 325,
+                  "url": "https://pbs.twimg.com/news_img/2058938038777245697/n9HV8Q84?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058938038777245697/n9HV8Q84?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "Poi向多少个人表白过，又被多少个人表白过 | マシュマロ",
+              "unwound_url": "https://marshmallow-qa.com/messages/22532ed1-8541-4ea1-804e-a4065c092d5a?utm_medium=twitter&utm_source=answer",
+              "url": "https://t.co/iefW3cOW0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058938038441631920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被三个人表白过，在此之外和另一人有过很长时间的在网络上的暧昧关系（大概10个月）但并没有被表白（\n\n和0人表白过\n#让我们互相投掷棉花糖\nhttps://t.co/iefW3cOW0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62742,
+          "following_count": 2077,
+          "like_count": 52337,
+          "listed_count": 4,
+          "media_count": 432,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@penguinmomentjp\n日常/小市民；不友也不厌任何群体，\n爱具体的人。\n小号@POI74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🍧",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 326,
+          "like_count": 67971,
+          "listed_count": 15,
+          "media_count": 3021,
+          "tweet_count": 25217
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

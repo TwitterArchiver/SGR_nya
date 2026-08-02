@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066753732440977408"
+      ],
+      "media_source_tweet_id": [
+        "2066753735205032084"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2066817963680997887",
+    "created_at": "2026-06-16T09:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066817963680997887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808604308163940352",
+          "start": 3,
+          "username": "cici20120712"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6xLNKoIg4q",
+          "end": 76,
+          "expanded_url": "https://x.com/cici20120712/status/2066753735205032084/photo/1",
+          "media_key": "3_2066753732440977408",
+          "start": 53,
+          "url": "https://t.co/6xLNKoIg4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066817963680997887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066753735205032084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cici20120712: 有时候在群聊里面有人说认识我感觉和\"我看过你裸体色图\"没什么区别…… https://t.co/6xLNKoIg4q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 341,
+        "media_key": "3_2066753732440977408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6VkcxbcAADyi5.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066753732440977408"
+          ],
+          "media_source_tweet_id": [
+            "2066753735205032084"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2066817963680997887",
+        "created_at": "2026-06-16T09:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066817963680997887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808604308163940352",
+              "start": 3,
+              "username": "cici20120712"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xLNKoIg4q",
+              "end": 76,
+              "expanded_url": "https://x.com/cici20120712/status/2066753735205032084/photo/1",
+              "media_key": "3_2066753732440977408",
+              "start": 53,
+              "url": "https://t.co/6xLNKoIg4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066817963680997887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066753735205032084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cici20120712: 有时候在群聊里面有人说认识我感觉和\"我看过你裸体色图\"没什么区别…… https://t.co/6xLNKoIg4q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066753732440977408"
+          ]
+        },
+        "author_id": "1808604308163940352",
+        "conversation_id": "2066753735205032084",
+        "created_at": "2026-06-16T05:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066753735205032084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xLNKoIg4q",
+              "end": 58,
+              "expanded_url": "https://x.com/cici20120712/status/2066753735205032084/photo/1",
+              "media_key": "3_2066753732440977408",
+              "start": 35,
+              "url": "https://t.co/6xLNKoIg4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066753735205032084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4977,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候在群聊里面有人说认识我感觉和\"我看过你裸体色图\"没什么区别…… https://t.co/6xLNKoIg4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63024,
+          "following_count": 2071,
+          "like_count": 53090,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 843
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "门槛68zfb口令就行了喵\n底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2064496772102373752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71233,
+          "following_count": 106,
+          "like_count": 983,
+          "listed_count": 185,
+          "media_count": 792,
+          "tweet_count": 1444
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

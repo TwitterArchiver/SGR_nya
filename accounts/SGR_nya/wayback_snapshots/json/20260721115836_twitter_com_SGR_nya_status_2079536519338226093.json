@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2079524214118531267",
+    "created_at": "2026-07-21T11:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079536519338226093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1619329033082376194",
+          "start": 0,
+          "username": "AUKFPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079536519338226093",
+    "in_reply_to_user_id": "1619329033082376194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079536278929018930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AUKFPV 云游戏x\n本地运行试过了，无论是转译还是虚拟机\n要么直接闪退要么被eac干掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2079524214118531267",
+        "created_at": "2026-07-21T11:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079536519338226093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1619329033082376194",
+              "start": 0,
+              "username": "AUKFPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079536519338226093",
+        "in_reply_to_user_id": "1619329033082376194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079536278929018930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AUKFPV 云游戏x\n本地运行试过了，无论是转译还是虚拟机\n要么直接闪退要么被eac干掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619329033082376194",
+        "conversation_id": "2079524214118531267",
+        "created_at": "2026-07-21T11:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079536278929018930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079536278929018930",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079535715768279269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 哇 这是 m5max 还是 pro？\n能有多少帧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/g7gDWXEwuM"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63202,
+          "following_count": 2073,
+          "like_count": 54512,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 930
+        },
+        "url": "https://t.co/g7gDWXEwuM",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-28T13:38:37.000Z",
+        "description": "海雀也可能会犯错。请核查重要信息。",
+        "id": "1619329033082376194",
+        "location": "Orison",
+        "name": "海雀",
+        "pinned_tweet_id": "2064746355600568798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033988140365725696/ofODJl8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 328,
+          "like_count": 7527,
+          "listed_count": 2,
+          "media_count": 461,
+          "tweet_count": 2564
+        },
+        "url": "",
+        "username": "AUKFPV",
+        "verified": true
+      }
+    ]
+  }
+}

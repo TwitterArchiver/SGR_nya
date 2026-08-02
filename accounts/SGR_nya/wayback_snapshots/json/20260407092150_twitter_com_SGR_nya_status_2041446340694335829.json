@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2041415836926435418",
+    "created_at": "2026-04-07T09:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041446340694335829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041446340694335829",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041415836926435418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin8964 让一部份电车先急行起来，特急带动准急"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2041415826012778497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSQ4LxaMAEWdQ5.jpg",
+        "width": 1966
+      },
+      {
+        "height": 1198,
+        "media_key": "3_2041415826033831938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSQ4L2bcAIkCGt.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2041415836926435418",
+        "created_at": "2026-04-07T09:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041446340694335829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041446340694335829",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041415836926435418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin8964 让一部份电车先急行起来，特急带动准急"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041415826012778497",
+            "3_2041415826033831938"
+          ]
+        },
+        "author_id": "3032768018",
+        "conversation_id": "2041415836926435418",
+        "created_at": "2026-04-07T07:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041415836926435418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQsKd8D03P",
+              "end": 23,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2041415836926435418/photo/1",
+              "media_key": "3_2041415826012778497",
+              "start": 0,
+              "url": "https://t.co/IQsKd8D03P"
+            },
+            {
+              "display_url": "pic.x.com/IQsKd8D03P",
+              "end": 23,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2041415836926435418/photo/1",
+              "media_key": "3_2041415826033831938",
+              "start": 0,
+              "url": "https://t.co/IQsKd8D03P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041415836926435418",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2647,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IQsKd8D03P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 中猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 超大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ultra猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62068,
+          "following_count": 2086,
+          "like_count": 51603,
+          "listed_count": 5,
+          "media_count": 418,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream 早稲田大学 M1\n😘：@DurantRaym93677\nTG频道：https://t.co/Es5shIbjtN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 59,
+                "username": "DurantRaym93677"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 104,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 81,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8leun8gncrcug2…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8leun8gncrcug2l?t=qy144m&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/dSRKPVvMWt"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2036269883038769496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 1479,
+          "like_count": 6053,
+          "listed_count": 7,
+          "media_count": 817,
+          "tweet_count": 2998
+        },
+        "url": "https://t.co/dSRKPVvMWt",
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

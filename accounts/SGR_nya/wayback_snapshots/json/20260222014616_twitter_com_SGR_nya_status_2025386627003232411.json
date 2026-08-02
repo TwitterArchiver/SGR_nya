@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2025168125650743313",
+    "created_at": "2026-02-22T01:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025386627003232411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1658735411160821761",
+          "start": 0,
+          "username": "Cent1pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025386627003232411",
+    "in_reply_to_user_id": "1658735411160821761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025259622471533016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cent1pd 用霍尔传感器替代了传统微动，触发点复位点全部可调，非常变态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2025168125650743313",
+        "created_at": "2026-02-22T01:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025386627003232411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1658735411160821761",
+              "start": 0,
+              "username": "Cent1pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025386627003232411",
+        "in_reply_to_user_id": "1658735411160821761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025259622471533016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cent1pd 用霍尔传感器替代了传统微动，触发点复位点全部可调，非常变态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658735411160821761",
+        "conversation_id": "2025168125650743313",
+        "created_at": "2026-02-21T17:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T18:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025259622471533016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025259622471533016",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3664,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025168125650743313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 还没看测评，g5牛逼的点在哪，真的提升有那么大吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62254,
+          "following_count": 2094,
+          "like_count": 51212,
+          "listed_count": 5,
+          "media_count": 461,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-17T07:25:46.000Z",
+        "description": "吃喝拉撒睡\n我是直男！",
+        "id": "1658735411160821761",
+        "name": "小胃袋食神",
+        "pinned_tweet_id": "2024873408715194504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004232362838683648/8YEPDoAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 242,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 300
+        },
+        "username": "Cent1pd",
+        "verified": false
+      }
+    ]
+  }
+}

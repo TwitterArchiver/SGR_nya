@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2064898689706160632",
+    "created_at": "2026-06-11T15:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065096236332724370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515668818013696000",
+          "start": 0,
+          "username": "jym66662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065096236332724370",
+    "in_reply_to_user_id": "1515668818013696000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065072820137427165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@jym66662 爱是什么吗，我觉得这是一个很难定义的东西，一千个人心中有一千个标准\n从我的观点，爱是坚定选择，是责任，爱是占有欲，保护欲，爱是陪伴，是守护"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065072820137427165].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065072820137427165",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065072820137427165"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2064898689706160632",
+        "created_at": "2026-06-11T15:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065096236332724370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515668818013696000",
+              "start": 0,
+              "username": "jym66662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065096236332724370",
+        "in_reply_to_user_id": "1515668818013696000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065072820137427165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@jym66662 爱是什么吗，我觉得这是一个很难定义的东西，一千个人心中有一千个标准\n从我的观点，爱是坚定选择，是责任，爱是占有欲，保护欲，爱是陪伴，是守护"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63016,
+          "following_count": 2073,
+          "like_count": 52910,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-17T12:29:50.000Z",
+        "description": "假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里须要镇静，相信吧，快乐的日子将会来临！心儿永远向往着未来…",
+        "id": "1515668818013696000",
+        "location": "加拿大 温哥华",
+        "name": "作业homework",
+        "pinned_tweet_id": "1992563536263049420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024807860392296448/Juy1qxhi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 553,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 569,
+          "tweet_count": 3377
+        },
+        "username": "jym66662",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2010589795119227366",
+    "created_at": "2026-01-13T02:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T03:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010894828079628315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1245550105815478272",
+          "start": 0,
+          "username": "Skye12789673"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010894828079628315",
+    "in_reply_to_user_id": "1245550105815478272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010893652646862918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Skye12789673 胃部剧烈变形"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2010589795119227366",
+        "created_at": "2026-01-13T02:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T03:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010894828079628315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1245550105815478272",
+              "start": 0,
+              "username": "Skye12789673"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010894828079628315",
+        "in_reply_to_user_id": "1245550105815478272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010893652646862918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Skye12789673 胃部剧烈变形"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1245550105815478272",
+        "conversation_id": "2010589795119227366",
+        "created_at": "2026-01-13T01:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T02:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010893652646862918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010893652646862918",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010589795119227366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 我现在单单是看见药盒都想吐😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨雨雨雨夹雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62084,
+          "following_count": 2097,
+          "like_count": 50879,
+          "listed_count": 4,
+          "media_count": 450,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-02T03:15:33.000Z",
+        "description": "（成分复杂的）xyn/2021.6.1起含糖/心理专业（Applied Psychology）学生/郭德纲粉丝（正在学贯口）/备润中",
+        "id": "1245550105815478272",
+        "location": "喵了个喵",
+        "name": "喵叽叽叽花朝🏳️‍⚧️",
+        "pinned_tweet_id": "1410321182851690498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438064193526112258/9yToug7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4155,
+          "following_count": 1470,
+          "like_count": 27535,
+          "listed_count": 19,
+          "media_count": 419,
+          "tweet_count": 9065
+        },
+        "username": "Skye12789673",
+        "verified": false
+      }
+    ]
+  }
+}

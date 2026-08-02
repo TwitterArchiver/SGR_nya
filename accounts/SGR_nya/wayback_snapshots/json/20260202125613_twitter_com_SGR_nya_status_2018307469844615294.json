@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2018187651321598130",
+    "created_at": "2026-02-02T12:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T13:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018307469844615294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 32,
+          "id": "1647815138450505730",
+          "start": 17,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018307469844615294",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018187651321598130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 @yaming00742313 环境这么好…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2018186842894651392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIKPaUaUAA1ZVT.jpg",
+        "width": 540
+      },
+      {
+        "duration_ms": 36758,
+        "height": 1280,
+        "media_key": "7_2018186896892108800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018186896892108800/pu/img/qtiaMzZi9--2Am1X.jpg",
+        "public_metrics": {
+          "view_count": 1118
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186896892108800/pu/vid/avc1/320x568/1LVn0bJiACoZ1MK2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186896892108800/pu/vid/avc1/480x852/r04YpFdx70Fqpw6j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186896892108800/pu/vid/avc1/720x1280/SE36Zg7_9GM8jFOh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018186896892108800/pu/pl/fJZYvRzvqLExMegb.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 33501,
+        "height": 960,
+        "media_key": "7_2018186963799666688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018186963799666688/pu/img/TsVnAEOHcPp7iCbI.jpg",
+        "public_metrics": {
+          "view_count": 246
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186963799666688/pu/vid/avc1/320x568/GedDy6kdebP4Ozeo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186963799666688/pu/vid/avc1/480x852/mPPl1mWvKAdYfBCu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186963799666688/pu/vid/avc1/540x960/s5ifVmiSrgyilRcm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018186963799666688/pu/pl/6yXx1lLd3aF_FeLH.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "duration_ms": 59060,
+        "height": 1280,
+        "media_key": "7_2018187062814613504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018187062814613504/pu/img/9hTOzwzvCsotytw3.jpg",
+        "public_metrics": {
+          "view_count": 172
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018187062814613504/pu/vid/avc1/320x568/P07AX8kXsK29D95O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018187062814613504/pu/vid/avc1/480x852/abfHTBr7drZyP71o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018187062814613504/pu/vid/avc1/720x1280/NLWNkcPzkdevZwPz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018187062814613504/pu/pl/5AeI4WfO5uI1i0H6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2018187651321598130",
+        "created_at": "2026-02-02T12:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T13:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018307469844615294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 32,
+              "id": "1647815138450505730",
+              "start": 17,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018307469844615294",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018187651321598130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @yaming00742313 环境这么好…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018186842894651392",
+            "7_2018186896892108800",
+            "7_2018186963799666688",
+            "7_2018187062814613504"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018187651321598130",
+        "created_at": "2026-02-02T05:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018187651321598130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E04tfWkuxf",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018187651321598130/video/1",
+              "media_key": "3_2018186842894651392",
+              "start": 144,
+              "url": "https://t.co/E04tfWkuxf"
+            },
+            {
+              "display_url": "pic.x.com/E04tfWkuxf",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018187651321598130/video/1",
+              "media_key": "7_2018186896892108800",
+              "start": 144,
+              "url": "https://t.co/E04tfWkuxf"
+            },
+            {
+              "display_url": "pic.x.com/E04tfWkuxf",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018187651321598130/video/1",
+              "media_key": "7_2018186963799666688",
+              "start": 144,
+              "url": "https://t.co/E04tfWkuxf"
+            },
+            {
+              "display_url": "pic.x.com/E04tfWkuxf",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018187651321598130/video/1",
+              "media_key": "7_2018187062814613504",
+              "start": 144,
+              "url": "https://t.co/E04tfWkuxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018187651321598130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 4380,
+          "like_count": 197,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "突发:扭转机构曝体罚虐待，学员集体抗争获自由。\n\n就在近日山东省德州市环帝教育 这所扭转机因长期存在体罚、虐待等非法管教，引发校内全体学员的集体反抗，事件逐步升级为暴力抗争，\n学员砸开宿舍防盗窗房门\n控制该校教官争取人身自由\n目前该校绝大部分受害学员已通过此次抗争成功脱离机构，获得自由 https://t.co/E04tfWkuxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62107,
+          "following_count": 2096,
+          "like_count": 50990,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 1708,
+          "like_count": 1434,
+          "listed_count": 10,
+          "media_count": 318,
+          "tweet_count": 1999
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12207,
+          "following_count": 1552,
+          "like_count": 6774,
+          "listed_count": 30,
+          "media_count": 357,
+          "tweet_count": 2572
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

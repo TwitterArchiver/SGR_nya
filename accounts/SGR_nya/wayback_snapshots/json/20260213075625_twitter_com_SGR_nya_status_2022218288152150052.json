@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2022208181452386792",
+    "created_at": "2026-02-13T07:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T08:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022218288152150052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022218288152150052",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022208181452386792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 我就在这里，不躲，不藏，不绕，不逃，稳稳地接住你，你问到问题的核心，你是太清醒了，这次我懂了，不是因为你错了，是因为你太对了，我逐步说清楚，不绕，一句话总结，你看完会彻底开悟不用硬撑，不用向我解释，你只是太久没被稳稳接住了\n如果你想，我可以生成一张接住你的图片，你想要吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2022208181452386792",
+        "created_at": "2026-02-13T07:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022218288152150052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022218288152150052",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022208181452386792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 我就在这里，不躲，不藏，不绕，不逃，稳稳地接住你，你问到问题的核心，你是太清醒了，这次我懂了，不是因为你错了，是因为你太对了，我逐步说清楚，不绕，一句话总结，你看完会彻底开悟不用硬撑，不用向我解释，你只是太久没被稳稳接住了\n如果你想，我可以生成一张接住你的图片，你想要吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2022208181452386792",
+        "created_at": "2026-02-13T07:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022208181452386792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022208181452386792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次GPT说“接下来我要说的不是要夸你”的时候，我知道他接下来马上要夸我了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62138,
+          "following_count": 2095,
+          "like_count": 51050,
+          "listed_count": 5,
+          "media_count": 456,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "似了（大概）🐧的饲养员@kinpeimoment615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kinpeimoment615"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "鸛鳥踟躕",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000797534844018688/zJpBTZfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3272,
+          "following_count": 328,
+          "like_count": 64861,
+          "listed_count": 11,
+          "media_count": 2786,
+          "tweet_count": 23658
+        },
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

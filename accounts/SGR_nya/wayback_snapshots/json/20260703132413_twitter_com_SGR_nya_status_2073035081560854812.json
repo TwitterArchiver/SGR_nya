@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073035077253283840"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2072668383267762401",
+    "created_at": "2026-07-03T13:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073035081560854812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505448300132110338",
+          "start": 0,
+          "username": "Rioshng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2q32vnpIgj",
+          "end": 32,
+          "expanded_url": "https://x.com/SGR_nya/status/2073035081560854812/photo/1",
+          "media_key": "3_2073035077253283840",
+          "start": 9,
+          "url": "https://t.co/2q32vnpIgj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073035081560854812",
+    "in_reply_to_user_id": "1505448300132110338",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072794852660842940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Rioshng https://t.co/2q32vnpIgj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 985,
+        "media_key": "3_2073035077253283840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTma1qbQAAvVyc.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073035077253283840"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2072668383267762401",
+        "created_at": "2026-07-03T13:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073035081560854812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505448300132110338",
+              "start": 0,
+              "username": "Rioshng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2q32vnpIgj",
+              "end": 32,
+              "expanded_url": "https://x.com/SGR_nya/status/2073035081560854812/photo/1",
+              "media_key": "3_2073035077253283840",
+              "start": 9,
+              "url": "https://t.co/2q32vnpIgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073035081560854812",
+        "in_reply_to_user_id": "1505448300132110338",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072794852660842940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Rioshng https://t.co/2q32vnpIgj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505448300132110338",
+        "conversation_id": "2072668383267762401",
+        "created_at": "2026-07-02T21:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072794852660842940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072794852660842940",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072668383267762401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 看看腿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63124,
+          "following_count": 2072,
+          "like_count": 54016,
+          "listed_count": 4,
+          "media_count": 451,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-20T07:37:11.000Z",
+        "description": "Non-binary非二元性别 | 大狗🐶 @Joestar8622 | 请勿将我的任何信息发布于任何国内社交媒体‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Joestar8622"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rioshng.com",
+                "end": 23,
+                "expanded_url": "https://rioshng.com",
+                "start": 0,
+                "url": "https://t.co/GziuK6uQNs"
+              }
+            ]
+          }
+        },
+        "id": "1505448300132110338",
+        "location": "京津",
+        "name": "楉笙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774122434142388224/kSw1Jt8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 1184,
+          "like_count": 39549,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 3138
+        },
+        "url": "https://t.co/GziuK6uQNs",
+        "username": "Rioshng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2062010406084960646",
+    "created_at": "2026-06-03T03:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062019885535007107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        },
+        {
+          "end": 23,
+          "id": "1797675850567184384",
+          "start": 13,
+          "username": "mizuho127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062019885535007107",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062010549102399768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 @mizuho127 大胃袋😳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2062010406084960646",
+        "created_at": "2026-06-03T03:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062019885535007107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            },
+            {
+              "end": 23,
+              "id": "1797675850567184384",
+              "start": 13,
+              "username": "mizuho127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062019885535007107",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062010549102399768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 @mizuho127 大胃袋😳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2062010406084960646",
+        "created_at": "2026-06-03T03:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062010549102399768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1797675850567184384",
+              "start": 0,
+              "username": "mizuho127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062010549102399768",
+        "in_reply_to_user_id": "1797675850567184384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062010406084960646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuho127 被我吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62891,
+          "following_count": 2076,
+          "like_count": 52640,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@penguinmomentjp\n日常/小市民；不友也不厌任何群体，\n爱具体的人。\n小号@POI74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🍧",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 329,
+          "like_count": 68434,
+          "listed_count": 15,
+          "media_count": 3050,
+          "tweet_count": 25544
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T17:05:05.000Z",
+        "description": "人在大阪/宅建士/不动产经营/资格教育事业（开展中）/美日股投资交流/加速主义好/cyberagent推し/接lora制作/",
+        "id": "1797675850567184384",
+        "location": "浪速区大国町",
+        "name": "サイ",
+        "pinned_tweet_id": "2045076326126960940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863363667171115008/wIbT6olE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 375,
+          "like_count": 8667,
+          "listed_count": 6,
+          "media_count": 321,
+          "tweet_count": 4760
+        },
+        "username": "mizuho127",
+        "verified": false
+      }
+    ]
+  }
+}

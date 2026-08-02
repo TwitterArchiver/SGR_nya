@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2017504379159646621",
+    "created_at": "2026-01-31T07:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T08:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017504379159646621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sgr_nya/status…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/sgr_nya/status/2013872072011981301",
+          "start": 27,
+          "url": "https://t.co/b0wECTSiBV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017504379159646621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013872072011981301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "330z没拿下，想一次气一次，怎么想怎么气，呜呜呜呜 https://t.co/b0wECTSiBV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 233,
+        "media_key": "3_2013872068908244992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_K1-gpbYAANKnh.jpg",
+        "width": 467
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2017504379159646621",
+        "created_at": "2026-01-31T07:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017504379159646621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sgr_nya/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/sgr_nya/status/2013872072011981301",
+              "start": 27,
+              "url": "https://t.co/b0wECTSiBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017504379159646621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013872072011981301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "330z没拿下，想一次气一次，怎么想怎么气，呜呜呜呜 https://t.co/b0wECTSiBV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013872068908244992"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013872072011981301",
+        "created_at": "2026-01-21T07:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013872072011981301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DyfTZUwYcS",
+              "end": 60,
+              "expanded_url": "https://x.com/SGR_nya/status/2013872072011981301/photo/1",
+              "media_key": "3_2013872068908244992",
+              "start": 37,
+              "url": "https://t.co/DyfTZUwYcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013872072011981301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2194,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公寓网差不敢打英雄，对象：帮你打\n我：ok\n然后第一次就出了个……\n厚礼 https://t.co/DyfTZUwYcS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62110,
+          "following_count": 2098,
+          "like_count": 50981,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

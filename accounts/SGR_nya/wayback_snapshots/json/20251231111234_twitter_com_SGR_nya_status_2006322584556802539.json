@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006322576818388993"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2006028072634536428",
+    "created_at": "2025-12-31T11:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T12:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006322584556802539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RRxoBJUfxm",
+          "end": 58,
+          "expanded_url": "https://x.com/SGR_nya/status/2006322584556802539/photo/1",
+          "media_key": "3_2006322576818388993",
+          "start": 35,
+          "url": "https://t.co/RRxoBJUfxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006322584556802539",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006028072634536428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 这个ar眼镜，上课听不懂了直接反手打开始实时翻译（ https://t.co/RRxoBJUfxm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1780,
+        "media_key": "3_2006322576818388993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fjwPAbQAErsIS.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006322576818388993"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2006028072634536428",
+        "created_at": "2025-12-31T11:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T12:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006322584556802539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RRxoBJUfxm",
+              "end": 58,
+              "expanded_url": "https://x.com/SGR_nya/status/2006322584556802539/photo/1",
+              "media_key": "3_2006322576818388993",
+              "start": 35,
+              "url": "https://t.co/RRxoBJUfxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006322584556802539",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006028072634536428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 这个ar眼镜，上课听不懂了直接反手打开始实时翻译（ https://t.co/RRxoBJUfxm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433678976564662273",
+        "conversation_id": "2006028072634536428",
+        "created_at": "2025-12-30T15:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006028072634536428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006028072634536428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 47397,
+          "like_count": 218,
+          "quote_count": 9,
+          "reply_count": 243,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "各位2025年最值得的一次消费是买了什么?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61877,
+          "following_count": 2098,
+          "like_count": 50783,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 791
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114061,
+          "following_count": 1011,
+          "like_count": 49306,
+          "listed_count": 258,
+          "media_count": 18252,
+          "tweet_count": 27379
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

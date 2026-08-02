@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2002625255307968819",
+    "created_at": "2025-12-21T16:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T17:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002781760174862811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1198154512994840576",
+          "start": 0,
+          "username": "zhxz05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002781760174862811",
+    "in_reply_to_user_id": "1198154512994840576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002780936866553962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhxz05 拼多多百亿补贴！满1000减1001！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2002625255307968819",
+        "created_at": "2025-12-21T16:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002781760174862811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1198154512994840576",
+              "start": 0,
+              "username": "zhxz05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002781760174862811",
+        "in_reply_to_user_id": "1198154512994840576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002780936866553962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhxz05 拼多多百亿补贴！满1000减1001！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1198154512994840576",
+        "conversation_id": "2002625255307968819",
+        "created_at": "2025-12-21T16:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002780936866553962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2002780936866553962",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002780523715019242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 好棒！能问下女朋友哪买的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61827,
+          "following_count": 2091,
+          "like_count": 50586,
+          "listed_count": 4,
+          "media_count": 444,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-23T08:21:21.000Z",
+        "description": "2022南极洲金靴奖获得者",
+        "id": "1198154512994840576",
+        "location": "china",
+        "name": "中华小子z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500702849478836225/AG5frv2b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 314,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 205
+        },
+        "username": "zhxz05",
+        "verified": false
+      }
+    ]
+  }
+}

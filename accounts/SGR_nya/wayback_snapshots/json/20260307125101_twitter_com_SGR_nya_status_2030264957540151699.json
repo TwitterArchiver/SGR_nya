@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030264947754860544"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2030264957540151699",
+    "created_at": "2026-03-07T12:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T13:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030264957540151699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xxp42PI4Pc",
+          "end": 29,
+          "expanded_url": "https://x.com/SGR_nya/status/2030264957540151699/photo/1",
+          "media_key": "3_2030264947754860544",
+          "start": 6,
+          "url": "https://t.co/xxp42PI4Pc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030264957540151699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好吃到哭😭 https://t.co/xxp42PI4Pc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2030264947754860544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCzzNpLbAAAWXoJ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030264947754860544"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030264957540151699",
+        "created_at": "2026-03-07T12:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T13:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030264957540151699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxp42PI4Pc",
+              "end": 29,
+              "expanded_url": "https://x.com/SGR_nya/status/2030264957540151699/photo/1",
+              "media_key": "3_2030264947754860544",
+              "start": 6,
+              "url": "https://t.co/xxp42PI4Pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030264957540151699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃到哭😭 https://t.co/xxp42PI4Pc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝小猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 中猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ 超大猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝ultra猫咪@⠕ ⠗ ⠊ ⠓ ⠎ ⠁ ⠝",
+        "id": "1130781616274468864",
+        "location": "万达广场附近",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62332,
+          "following_count": 2095,
+          "like_count": 51316,
+          "listed_count": 6,
+          "media_count": 407,
+          "tweet_count": 761
+        },
+        "username": "SGR_nya",
+        "verified": false
+      }
+    ]
+  }
+}

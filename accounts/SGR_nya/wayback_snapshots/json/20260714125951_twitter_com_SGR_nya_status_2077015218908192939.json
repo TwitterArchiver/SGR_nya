@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2076864043831480324",
+    "created_at": "2026-07-14T12:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077015218908192939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717438361453891584",
+          "start": 0,
+          "username": "mendesu196664"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077015218908192939",
+    "in_reply_to_user_id": "1717438361453891584",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077011064646963353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@mendesu196664 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2076864043831480324",
+        "created_at": "2026-07-14T12:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077015218908192939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717438361453891584",
+              "start": 0,
+              "username": "mendesu196664"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077015218908192939",
+        "in_reply_to_user_id": "1717438361453891584",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077011064646963353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@mendesu196664 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717438361453891584",
+        "conversation_id": "2076864043831480324",
+        "created_at": "2026-07-14T12:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077011064646963353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077011064646963353",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076864043831480324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 紧跟实事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63179,
+          "following_count": 2072,
+          "like_count": 54401,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T07:09:59.000Z",
+        "description": "",
+        "id": "1717438361453891584",
+        "name": "圆头耄耋与小白手套",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068334897278902272/dOaZ6LRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 50,
+          "like_count": 3111,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "mendesu196664",
+        "verified": false
+      }
+    ]
+  }
+}

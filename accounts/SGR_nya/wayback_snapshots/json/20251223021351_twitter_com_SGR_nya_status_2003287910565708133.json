@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2003187421715075552",
+    "created_at": "2025-12-23T02:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T03:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003287910565708133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "260663159",
+          "start": 0,
+          "username": "fakeChitose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003287910565708133",
+    "in_reply_to_user_id": "260663159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003187421715075552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fakeChitose 是这样的（\n中国菜好吃到哭（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2003187421715075552",
+        "created_at": "2025-12-23T02:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003287910565708133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "260663159",
+              "start": 0,
+              "username": "fakeChitose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003287910565708133",
+        "in_reply_to_user_id": "260663159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003187421715075552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fakeChitose 是这样的（\n中国菜好吃到哭（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260663159",
+        "conversation_id": "2003187421715075552",
+        "created_at": "2025-12-22T19:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003187421715075552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003187421715075552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 724,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回國三天，一秒都沒懷念過日本的吃的\n\n謝謝大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61846,
+          "following_count": 2091,
+          "like_count": 50601,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-04T09:56:32.000Z",
+        "description": "成人井外勢力 地球在住 混吃等死從業者 廣東話母語者 粵拼用家 / memo AkechiSatori #StandWithUkraine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 52,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/fakeChito…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/fakeChitose",
+                "start": 0,
+                "url": "https://t.co/4hZcOWhdip"
+              }
+            ]
+          }
+        },
+        "id": "260663159",
+        "location": "地球",
+        "name": "チトセ 💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632373928697151488/2EvE2as9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2940,
+          "following_count": 1158,
+          "like_count": 5113,
+          "listed_count": 17,
+          "media_count": 1825,
+          "tweet_count": 9617
+        },
+        "url": "https://t.co/4hZcOWhdip",
+        "username": "fakeChitose",
+        "verified": true
+      }
+    ]
+  }
+}

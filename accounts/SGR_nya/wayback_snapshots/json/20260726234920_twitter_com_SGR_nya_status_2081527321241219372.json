@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2081444219143798995",
+    "created_at": "2026-07-26T23:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081527321241219372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1182196151916752896",
+          "start": 0,
+          "username": "ycjpoi"
+        },
+        {
+          "end": 17,
+          "id": "1347785202613948417",
+          "start": 8,
+          "username": "NekoSao3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081527321241219372",
+    "in_reply_to_user_id": "1182196151916752896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081444219143798995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ycjpoi @NekoSao3 太敬业了hhhhhhhhhhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081444211891867648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLGe5WbkAA6XiO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2081444219143798995",
+        "created_at": "2026-07-26T23:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081527321241219372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1182196151916752896",
+              "start": 0,
+              "username": "ycjpoi"
+            },
+            {
+              "end": 17,
+              "id": "1347785202613948417",
+              "start": 8,
+              "username": "NekoSao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081527321241219372",
+        "in_reply_to_user_id": "1182196151916752896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081444219143798995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ycjpoi @NekoSao3 太敬业了hhhhhhhhhhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081444211891867648"
+          ]
+        },
+        "author_id": "1182196151916752896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081444219143798995",
+        "created_at": "2026-07-26T18:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081444219143798995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wsnavfSgpi",
+              "end": 29,
+              "expanded_url": "https://x.com/ycjpoi/status/2081444219143798995/photo/1",
+              "media_key": "3_2081444211891867648",
+              "start": 6,
+              "url": "https://t.co/wsnavfSgpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081444219143798995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2359,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "约拍扩列条 https://t.co/wsnavfSgpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngEo0V"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63225,
+          "following_count": 2072,
+          "like_count": 54624,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/yQ32ngEo0V",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-10T07:28:28.000Z",
+        "description": "会点摄影，会点绳，lo/cos/jk三坑全占，主厨博丽灵梦，双性恋 博丽绳社 @boliduoxiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "boliduoxiao"
+              }
+            ]
+          }
+        },
+        "id": "1182196151916752896",
+        "location": "博丽绳社",
+        "name": "博丽多销",
+        "pinned_tweet_id": "2081444219143798995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592825388735995905/FhTiSVaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26634,
+          "following_count": 934,
+          "like_count": 2890,
+          "listed_count": 82,
+          "media_count": 935,
+          "tweet_count": 3353
+        },
+        "url": "",
+        "username": "ycjpoi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T06:00:17.000Z",
+        "description": "这里是坎喵/身陷157&45/是男孩子/轻微社恐/是小透明/是过气jk和吃土lo娘，偶尔会cos/喜绳缚，只会被捆不会捆人/偶尔会自缚/梦想是变得更可爱，然后认识很多小可爱！/求点赞转发关注，每一个❤️和转推和fo都是让我继续前进的动力(ง •̀_•́)ง",
+        "id": "1347785202613948417",
+        "location": "Shanghai",
+        "name": "坎宁安喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975164114701037568/ww5BX6R6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65046,
+          "following_count": 587,
+          "like_count": 4761,
+          "listed_count": 284,
+          "media_count": 581,
+          "tweet_count": 4963
+        },
+        "url": "",
+        "username": "NekoSao3",
+        "verified": true
+      }
+    ]
+  }
+}

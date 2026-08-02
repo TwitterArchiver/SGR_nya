@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2018573385983537231",
+    "created_at": "2026-02-03T06:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T07:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018573385983537231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1567543722170253313",
+          "start": 3,
+          "username": "ouO1nieowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018573385983537231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018326263266746852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ouO1nieowo: 只有你主动找我 我才会觉得你想和我说话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2018573385983537231",
+        "created_at": "2026-02-03T06:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018573385983537231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1567543722170253313",
+              "start": 3,
+              "username": "ouO1nieowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018573385983537231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018326263266746852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ouO1nieowo: 只有你主动找我 我才会觉得你想和我说话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567543722170253313",
+        "conversation_id": "2018326263266746852",
+        "created_at": "2026-02-02T14:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018326263266746852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018326263266746852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5923,
+          "like_count": 153,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "只有你主动找我 我才会觉得你想和我说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62121,
+          "following_count": 2096,
+          "like_count": 50997,
+          "listed_count": 5,
+          "media_count": 452,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-07T16:02:09.000Z",
+        "description": "ISFJ摩羯座 我想发啥就发啥 不加联系不聊骚不线下",
+        "id": "1567543722170253313",
+        "location": "骂我的替我挡灾",
+        "name": "SweetyRoll",
+        "pinned_tweet_id": "2014644987955445806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015403365497270272/XImd6Pk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 24,
+          "like_count": 43,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 204
+        },
+        "username": "ouO1nieowo",
+        "verified": false
+      }
+    ]
+  }
+}

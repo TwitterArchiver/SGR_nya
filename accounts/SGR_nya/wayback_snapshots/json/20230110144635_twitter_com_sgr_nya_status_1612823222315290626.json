@@ -1,0 +1,171 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1318261800018718720",
+    "conversation_id": "1612809604815261696",
+    "created_at": "2023-01-10T14:46:35.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-10T15:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1612823222315290626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457368144117657600",
+          "start": 0,
+          "username": "cilferz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1612823222315290626",
+    "in_reply_to_user_id": "1457368144117657600",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1612811124134805513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cilferz なかよくしよ〜っ  ̫ ᴗ^♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1318261800018718720",
+        "conversation_id": "1612809604815261696",
+        "created_at": "2023-01-10T14:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-10T15:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1612823222315290626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457368144117657600",
+              "start": 0,
+              "username": "cilferz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1612823222315290626",
+        "in_reply_to_user_id": "1457368144117657600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612811124134805513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cilferz なかよくしよ〜っ  ̫ ᴗ^♡"
+      },
+      {
+        "attachments": {},
+        "author_id": "1457368144117657600",
+        "conversation_id": "1612809604815261696",
+        "created_at": "2023-01-10T13:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-10T14:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1612811124134805513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1318261800018718720",
+              "start": 0,
+              "username": "sgr_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1612811124134805513",
+        "in_reply_to_user_id": "1318261800018718720",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612809604815261696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sgr_nya おむかえあり！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-10-19T18:44:49.000Z",
+        "description": "",
+        "id": "1318261800018718720",
+        "name": "🐾",
+        "pinned_tweet_id": "1326140035641434112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612803902503792642/QQPNJTec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 3,
+          "listed_count": 0,
+          "tweet_count": 6
+        },
+        "username": "sgr_nya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-07T15:24:35.000Z",
+        "description": "",
+        "id": "1457368144117657600",
+        "name": "61",
+        "pinned_tweet_id": "1520766526915510273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1493726114032029697/GqzNzYiA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 18,
+          "listed_count": 1,
+          "tweet_count": 1051
+        },
+        "username": "cilferz",
+        "verified": false
+      }
+    ]
+  }
+}

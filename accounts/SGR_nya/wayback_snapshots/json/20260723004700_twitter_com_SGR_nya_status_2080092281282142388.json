@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079895343161135104",
+        "3_2079895398920212480",
+        "3_2079895458668003328",
+        "3_2079895541337743360"
+      ],
+      "media_source_tweet_id": [
+        "2079895631011995868",
+        "2079895631011995868",
+        "2079895631011995868",
+        "2079895631011995868"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2080092281282142388",
+    "created_at": "2026-07-23T00:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T01:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080092281282142388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378365057222860800",
+          "start": 3,
+          "username": "n6_nishibi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FYmmQJZU8r",
+          "end": 39,
+          "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+          "media_key": "3_2079895343161135104",
+          "start": 16,
+          "url": "https://t.co/FYmmQJZU8r"
+        },
+        {
+          "display_url": "pic.x.com/FYmmQJZU8r",
+          "end": 39,
+          "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+          "media_key": "3_2079895398920212480",
+          "start": 16,
+          "url": "https://t.co/FYmmQJZU8r"
+        },
+        {
+          "display_url": "pic.x.com/FYmmQJZU8r",
+          "end": 39,
+          "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+          "media_key": "3_2079895458668003328",
+          "start": 16,
+          "url": "https://t.co/FYmmQJZU8r"
+        },
+        {
+          "display_url": "pic.x.com/FYmmQJZU8r",
+          "end": 39,
+          "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+          "media_key": "3_2079895541337743360",
+          "start": 16,
+          "url": "https://t.co/FYmmQJZU8r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080092281282142388",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4360
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079895631011995868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @n6_nishibi: https://t.co/FYmmQJZU8r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_2079895343161135104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1Fy3sb0AAkyhS.jpg",
+        "width": 1347
+      },
+      {
+        "height": 1006,
+        "media_key": "3_2079895398920212480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1F2Hab0AAbwXJ.jpg",
+        "width": 1342
+      },
+      {
+        "height": 1007,
+        "media_key": "3_2079895458668003328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1F5l_awAAB3ls.jpg",
+        "width": 1343
+      },
+      {
+        "height": 1008,
+        "media_key": "3_2079895541337743360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1F-Z9a4AAvaZN.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079895343161135104",
+            "3_2079895398920212480",
+            "3_2079895458668003328",
+            "3_2079895541337743360"
+          ]
+        },
+        "author_id": "1378365057222860800",
+        "conversation_id": "2079895631011995868",
+        "created_at": "2026-07-22T11:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079895631011995868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYmmQJZU8r",
+              "end": 23,
+              "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+              "media_key": "3_2079895343161135104",
+              "start": 0,
+              "url": "https://t.co/FYmmQJZU8r"
+            },
+            {
+              "display_url": "pic.x.com/FYmmQJZU8r",
+              "end": 23,
+              "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+              "media_key": "3_2079895398920212480",
+              "start": 0,
+              "url": "https://t.co/FYmmQJZU8r"
+            },
+            {
+              "display_url": "pic.x.com/FYmmQJZU8r",
+              "end": 23,
+              "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+              "media_key": "3_2079895458668003328",
+              "start": 0,
+              "url": "https://t.co/FYmmQJZU8r"
+            },
+            {
+              "display_url": "pic.x.com/FYmmQJZU8r",
+              "end": 23,
+              "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+              "media_key": "3_2079895541337743360",
+              "start": 0,
+              "url": "https://t.co/FYmmQJZU8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079895631011995868",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1326,
+          "impression_count": 696360,
+          "like_count": 21699,
+          "quote_count": 317,
+          "reply_count": 0,
+          "retweet_count": 4360
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/FYmmQJZU8r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079895343161135104",
+            "3_2079895398920212480",
+            "3_2079895458668003328",
+            "3_2079895541337743360"
+          ],
+          "media_source_tweet_id": [
+            "2079895631011995868",
+            "2079895631011995868",
+            "2079895631011995868",
+            "2079895631011995868"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2080092281282142388",
+        "created_at": "2026-07-23T00:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080092281282142388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378365057222860800",
+              "start": 3,
+              "username": "n6_nishibi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYmmQJZU8r",
+              "end": 39,
+              "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+              "media_key": "3_2079895343161135104",
+              "start": 16,
+              "url": "https://t.co/FYmmQJZU8r"
+            },
+            {
+              "display_url": "pic.x.com/FYmmQJZU8r",
+              "end": 39,
+              "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+              "media_key": "3_2079895398920212480",
+              "start": 16,
+              "url": "https://t.co/FYmmQJZU8r"
+            },
+            {
+              "display_url": "pic.x.com/FYmmQJZU8r",
+              "end": 39,
+              "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+              "media_key": "3_2079895458668003328",
+              "start": 16,
+              "url": "https://t.co/FYmmQJZU8r"
+            },
+            {
+              "display_url": "pic.x.com/FYmmQJZU8r",
+              "end": 39,
+              "expanded_url": "https://x.com/n6_nishibi/status/2079895631011995868/photo/1",
+              "media_key": "3_2079895541337743360",
+              "start": 16,
+              "url": "https://t.co/FYmmQJZU8r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080092281282142388",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4360
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079895631011995868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @n6_nishibi: https://t.co/FYmmQJZU8r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngEo0V"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63209,
+          "following_count": 2075,
+          "like_count": 54537,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/yQ32ngEo0V",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-03T15:13:40.000Z",
+        "description": "ポケモンが好きです ハルモニアのことばっかりしゃべる 20↑ 🔰最近は時々絵も描きます！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2070131",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/2070131",
+                "start": 0,
+                "url": "https://t.co/0S4U7dw46g"
+              }
+            ]
+          }
+        },
+        "id": "1378365057222860800",
+        "location": "支離滅裂な思考・発言",
+        "name": "にしび",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973772502833991681/6GOzbLJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 232,
+          "like_count": 25768,
+          "listed_count": 8,
+          "media_count": 838,
+          "tweet_count": 4685
+        },
+        "url": "https://t.co/0S4U7dw46g",
+        "username": "n6_nishibi",
+        "verified": false
+      }
+    ]
+  }
+}

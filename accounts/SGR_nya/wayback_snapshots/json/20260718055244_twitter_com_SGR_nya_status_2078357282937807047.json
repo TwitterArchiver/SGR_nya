@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2078357282937807047",
+    "created_at": "2026-07-18T05:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078357282937807047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/marumakoubo/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/marumakoubo/status/2078081668074876968",
+          "start": 8,
+          "url": "https://t.co/qFtaKxaZNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078357282937807047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078081668074876968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这个我是真想要 https://t.co/qFtaKxaZNf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078081659833036800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbUQmyaMAAMiWL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078081659803783169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbUQmrb0AER44a.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078081659820544000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbUQmvbkAA3-Vj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2078357282937807047",
+        "created_at": "2026-07-18T05:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078357282937807047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/marumakoubo/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/marumakoubo/status/2078081668074876968",
+              "start": 8,
+              "url": "https://t.co/qFtaKxaZNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078357282937807047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078081668074876968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这个我是真想要 https://t.co/qFtaKxaZNf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078081659833036800",
+            "3_2078081659803783169",
+            "3_2078081659820544000"
+          ]
+        },
+        "author_id": "1040067749081317376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078081668074876968",
+        "created_at": "2026-07-17T11:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078081668074876968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHIHmA5UKD",
+              "end": 57,
+              "expanded_url": "https://x.com/MarumaKoubo/status/2078081668074876968/photo/1",
+              "media_key": "3_2078081659833036800",
+              "start": 34,
+              "url": "https://t.co/RHIHmA5UKD"
+            },
+            {
+              "display_url": "pic.x.com/RHIHmA5UKD",
+              "end": 57,
+              "expanded_url": "https://x.com/MarumaKoubo/status/2078081668074876968/photo/1",
+              "media_key": "3_2078081659803783169",
+              "start": 34,
+              "url": "https://t.co/RHIHmA5UKD"
+            },
+            {
+              "display_url": "pic.x.com/RHIHmA5UKD",
+              "end": 57,
+              "expanded_url": "https://x.com/MarumaKoubo/status/2078081668074876968/photo/1",
+              "media_key": "3_2078081659820544000",
+              "start": 34,
+              "url": "https://t.co/RHIHmA5UKD"
+            },
+            {
+              "display_url": "x.com/marumakoubo/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/marumakoubo/status/2077717355749425217",
+              "start": 58,
+              "url": "https://t.co/RAJ6m7sdtj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078081668074876968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1011,
+          "impression_count": 270217,
+          "like_count": 5079,
+          "quote_count": 93,
+          "reply_count": 22,
+          "retweet_count": 1108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077717355749425217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "試作品その② 「ミミサイル」\n3つの装備は取り外して自由に換装可能 https://t.co/RHIHmA5UKD https://t.co/RAJ6m7sdtj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/g7gDWXEwuM"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63196,
+          "following_count": 2075,
+          "like_count": 54496,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/g7gDWXEwuM",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-13T02:40:49.000Z",
+        "description": "「身につける遊び心」をコンセプトに、見て楽しい、着けてかわいいユニークなアクセサリーを作ってます。 主にminneとデザフェスで販売中！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "minne.com/@ywlvlak",
+                "end": 23,
+                "expanded_url": "https://minne.com/@ywlvlak",
+                "start": 0,
+                "url": "https://t.co/BMyaaSE8CV"
+              }
+            ]
+          }
+        },
+        "id": "1040067749081317376",
+        "name": "マルま工房",
+        "pinned_tweet_id": "2077363132113281162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893531232010416128/gcflgRFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8331,
+          "following_count": 206,
+          "like_count": 4044,
+          "listed_count": 128,
+          "media_count": 934,
+          "tweet_count": 2387
+        },
+        "url": "https://t.co/BMyaaSE8CV",
+        "username": "MarumaKoubo",
+        "verified": true
+      }
+    ]
+  }
+}

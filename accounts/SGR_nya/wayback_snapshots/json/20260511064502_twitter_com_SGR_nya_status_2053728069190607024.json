@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2053717964097253871",
+    "created_at": "2026-05-11T06:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053728069190607024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350462273458868227",
+          "start": 0,
+          "username": "ZaindORp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053728069190607024",
+    "in_reply_to_user_id": "1350462273458868227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053725554864791588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ZaindORp 拿下了已经 破解好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2053717964097253871",
+        "created_at": "2026-05-11T06:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053728069190607024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350462273458868227",
+              "start": 0,
+              "username": "ZaindORp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053728069190607024",
+        "in_reply_to_user_id": "1350462273458868227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053725554864791588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ZaindORp 拿下了已经 破解好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350462273458868227",
+        "conversation_id": "2053717964097253871",
+        "created_at": "2026-05-11T06:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053725554864791588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053725554864791588",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053717964097253871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 代开居然不是单纯的开个服务器，还把用户的存档加密确保别人没得选只能用他的服务吗？\n这相当糟糕了啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62721,
+          "following_count": 2083,
+          "like_count": 51952,
+          "listed_count": 6,
+          "media_count": 428,
+          "tweet_count": 815
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-16T15:18:06.000Z",
+        "description": "清水生活推，或許有些偏負能…我會努力壓制的。\n是含糖MTF🏳‍⚧。\n願意與任何人成為朋友。\n是大貓貓@AnyNeko_ 的家養貓娘。\n想要成為溫柔的，可以幫助大家的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "AnyNeko_"
+              }
+            ]
+          }
+        },
+        "id": "1350462273458868227",
+        "location": "2.50km",
+        "name": "*۫۫۫۫۫۫۫۫۫۫雨۫۫۫۫۫۫۫۫۫樱۫۫۫۫۫۫۫۫۫۫落𝗭𝗮𝗶𝗻𝗱𝗢𝗥𝗽",
+        "pinned_tweet_id": "1650829946560864256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886324430680535040/kEH7ya8r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5179,
+          "following_count": 147,
+          "like_count": 269656,
+          "listed_count": 32,
+          "media_count": 1116,
+          "tweet_count": 34047
+        },
+        "username": "ZaindORp",
+        "verified": false
+      }
+    ]
+  }
+}

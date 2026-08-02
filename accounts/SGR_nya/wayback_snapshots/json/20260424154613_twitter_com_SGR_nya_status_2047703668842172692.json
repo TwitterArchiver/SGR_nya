@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2047566839413457109",
+    "created_at": "2026-04-24T15:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047703668842172692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        },
+        {
+          "end": 25,
+          "id": "1182479361275920384",
+          "start": 13,
+          "username": "SagaeSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047703668842172692",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047610020125462558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 @SagaeSayuki 我心目中最理想的状况就是和恋人同时还是挚友\n真的超棒的欸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2047566839413457109",
+        "created_at": "2026-04-24T15:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047703668842172692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            },
+            {
+              "end": 25,
+              "id": "1182479361275920384",
+              "start": 13,
+              "username": "SagaeSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047703668842172692",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047610020125462558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 @SagaeSayuki 我心目中最理想的状况就是和恋人同时还是挚友\n真的超棒的欸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2047566839413457109",
+        "created_at": "2026-04-24T09:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047610020125462558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182479361275920384",
+              "start": 0,
+              "username": "SagaeSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047610020125462558",
+        "in_reply_to_user_id": "1182479361275920384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047566839413457109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagaeSayuki 可以是同一个人（🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61666,
+          "following_count": 2086,
+          "like_count": 51884,
+          "listed_count": 6,
+          "media_count": 418,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@penguinmomentjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "penguinmomentjp"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🍳",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 329,
+          "like_count": 66876,
+          "listed_count": 16,
+          "media_count": 2908,
+          "tweet_count": 24627
+        },
+        "username": "POI74103174",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-11T02:14:23.000Z",
+        "description": "這是一隻居住在日本列島的平成十一年式普通野良貓貓。我堆砌毫無意義的文字，我進行漫無目的的旅行，我送別無可留戀的人生。\n🌟信仰は儚き遼南の為に🌟",
+        "id": "1182479361275920384",
+        "location": "堤防決壊時最大浸水深5m",
+        "name": "寒河江桜雪🌸🐈",
+        "pinned_tweet_id": "2037393616558260567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835671919305330688/T3uemmfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 1018,
+          "like_count": 52860,
+          "listed_count": 8,
+          "media_count": 1476,
+          "tweet_count": 7815
+        },
+        "username": "SagaeSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

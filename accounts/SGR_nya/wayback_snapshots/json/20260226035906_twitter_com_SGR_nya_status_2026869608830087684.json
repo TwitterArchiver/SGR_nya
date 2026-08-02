@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2026332438985888219",
+    "created_at": "2026-02-26T03:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T04:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026869608830087684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749798935357767680",
+          "start": 0,
+          "username": "Nameiccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026869608830087684",
+    "in_reply_to_user_id": "1749798935357767680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026332438985888219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nameiccc 抱玩偶其实也能达到差不多八成效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2026332438985888219",
+        "created_at": "2026-02-26T03:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026869608830087684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749798935357767680",
+              "start": 0,
+              "username": "Nameiccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026869608830087684",
+        "in_reply_to_user_id": "1749798935357767680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026332438985888219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nameiccc 抱玩偶其实也能达到差不多八成效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749798935357767680",
+        "conversation_id": "2026332438985888219",
+        "created_at": "2026-02-24T16:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026332438985888219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026332438985888219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 188987,
+          "like_count": 1864,
+          "quote_count": 43,
+          "reply_count": 125,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "你可以用自慰顶替性生活 但什么都顶替不了拥抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62333,
+          "following_count": 2095,
+          "like_count": 51262,
+          "listed_count": 5,
+          "media_count": 455,
+          "tweet_count": 811
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T14:19:18.000Z",
+        "description": "日常，碎碎念..",
+        "id": "1749798935357767680",
+        "location": "🚪52",
+        "name": "海克斯科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884611841625890816/fNfl7BWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66978,
+          "following_count": 18,
+          "like_count": 731,
+          "listed_count": 137,
+          "media_count": 287,
+          "tweet_count": 460
+        },
+        "username": "Nameiccc",
+        "verified": false
+      }
+    ]
+  }
+}

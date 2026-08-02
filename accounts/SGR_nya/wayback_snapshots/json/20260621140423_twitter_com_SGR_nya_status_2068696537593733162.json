@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2068607457912561804",
+    "created_at": "2026-06-21T14:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068696537593733162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1456243266186211332",
+          "start": 0,
+          "username": "CuplRusttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068696537593733162",
+    "in_reply_to_user_id": "1456243266186211332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068607457912561804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuplRusttt 学校不行，还断电 好学校都不断电的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_2068607451319136256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUrhFuacAAFq5Q.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2068607457912561804",
+        "created_at": "2026-06-21T14:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068696537593733162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1456243266186211332",
+              "start": 0,
+              "username": "CuplRusttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068696537593733162",
+        "in_reply_to_user_id": "1456243266186211332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068607457912561804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuplRusttt 学校不行，还断电 好学校都不断电的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068607451319136256"
+          ]
+        },
+        "author_id": "1456243266186211332",
+        "conversation_id": "2068607457912561804",
+        "created_at": "2026-06-21T08:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068607457912561804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qndE36hHnB",
+              "end": 34,
+              "expanded_url": "https://x.com/CuplRusttt/status/2068607457912561804/photo/1",
+              "media_key": "3_2068607451319136256",
+              "start": 11,
+              "url": "https://t.co/qndE36hHnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068607457912561804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 98713,
+          "like_count": 592,
+          "quote_count": 1,
+          "reply_count": 125,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "实在是绷不住了😅😅😅 https://t.co/qndE36hHnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63055,
+          "following_count": 2069,
+          "like_count": 53282,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 855
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-04T12:53:54.000Z",
+        "description": "北京/⚖律师/AI/赛博Bistro @ZCupl41916",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "ZCupl41916"
+              }
+            ]
+          }
+        },
+        "id": "1456243266186211332",
+        "name": "Rusttt",
+        "pinned_tweet_id": "1983163875135832497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658123289196101632/IInnJ6r5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9048,
+          "following_count": 669,
+          "like_count": 47027,
+          "listed_count": 26,
+          "media_count": 451,
+          "tweet_count": 4294
+        },
+        "url": "",
+        "username": "CuplRusttt",
+        "verified": false
+      }
+    ]
+  }
+}

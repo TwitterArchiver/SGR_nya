@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2082086082502709529",
+    "created_at": "2026-07-30T00:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T01:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082628091336433979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1001218834253189126",
+          "start": 0,
+          "username": "Luna5ama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082628091336433979",
+    "in_reply_to_user_id": "1001218834253189126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082627377109332194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Luna5ama 天意啊天意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2082086082502709529",
+        "created_at": "2026-07-30T00:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082628091336433979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1001218834253189126",
+              "start": 0,
+              "username": "Luna5ama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082628091336433979",
+        "in_reply_to_user_id": "1001218834253189126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082627377109332194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Luna5ama 天意啊天意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1001218834253189126",
+        "conversation_id": "2082086082502709529",
+        "created_at": "2026-07-30T00:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082627377109332194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082627377109332194",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082086082502709529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngEo0V"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "シグレ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63232,
+          "following_count": 2072,
+          "like_count": 54668,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/yQ32ngEo0V",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-28T21:49:06.000Z",
+        "description": "日常废话推 | 老保退步人 | 丑陋哥布林 | 回撤收藏家 | 做多人类派 | 净值蹦极师 | 低智小学生 | 究极乐子人 | 抽象艺术家 | 胡言乱语集 | 退役熬夜员 | 电子吸尘器 | 互联网该溜\n\n如果你还想要更多类似的标签，我可以继续为你生成。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.luna5ama.dev",
+                "end": 23,
+                "expanded_url": "https://about.luna5ama.dev/",
+                "start": 0,
+                "url": "https://t.co/JbyCOvSQWA"
+              }
+            ]
+          }
+        },
+        "id": "1001218834253189126",
+        "location": "Mountain View, California ",
+        "name": "Luna今天用什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080153433626324992/4B_QKOMs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49029,
+          "following_count": 382,
+          "like_count": 97608,
+          "listed_count": 46,
+          "media_count": 1031,
+          "tweet_count": 11073
+        },
+        "url": "https://t.co/JbyCOvSQWA",
+        "username": "Luna5ama",
+        "verified": false
+      }
+    ]
+  }
+}

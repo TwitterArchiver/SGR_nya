@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2045044197812822461",
+    "created_at": "2026-04-17T07:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T08:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045044197812822461"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045044197812822461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "感觉吃完择思达除了能更专注的玩儿手机也并没有什么弔用，然后还导致我失眠好厉害\n_(´ཀ`」 ∠)_\n_(´ཀ`」 ∠)\n_(´ཀ`」 ∠\n_(´ཀ`」 \n_(´ཀ`\n_(´ཀ\n_(´\n_(\n_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2045044197812822461",
+        "created_at": "2026-04-17T07:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045044197812822461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045044197812822461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "感觉吃完择思达除了能更专注的玩儿手机也并没有什么弔用，然后还导致我失眠好厉害\n_(´ཀ`」 ∠)_\n_(´ཀ`」 ∠)\n_(´ཀ`」 ∠\n_(´ཀ`」 \n_(´ཀ`\n_(´ཀ\n_(´\n_(\n_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61450,
+          "following_count": 2083,
+          "like_count": 51754,
+          "listed_count": 6,
+          "media_count": 418,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

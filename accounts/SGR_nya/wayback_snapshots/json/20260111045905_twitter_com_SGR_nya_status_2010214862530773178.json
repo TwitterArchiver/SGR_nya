@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2010214862530773178",
+    "created_at": "2026-01-11T04:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T05:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010214862530773178"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010214862530773178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "猫的分离焦虑（Separation Anxiety）是一种常见的宠物行为问题，指猫在与主人或其他依附对象分离时表现出强烈的压力、恐惧或不安。这种情况不像狗那么普遍，但确实存在，尤其在某些猫身上。以下是猫出现分离焦虑的主要原因，这些基于可靠的宠物健康来源总结而来：\n\n- **环境或生活变化**：猫对例行习惯非常敏感，如果主人突然改变工作模式（如从在家办公转为外出上班）、家庭成员增加（如新生儿）、搬家、或主人外出度假，这些都会引发焦虑。例如，搬到新家或主人长时间不在家时，猫可能会感到不安全。\n\n- **早年经历**：如果猫在幼年时期被早早断奶、成为孤儿、或通过瓶喂养大，它们更容易发展出对主人的过度依赖，从而在分离时焦虑。\n\n- **缺乏伴侣或社交**：单只室内猫，尤其是没有其他宠物陪伴的猫，更容易感到孤独和焦虑。猫虽然独立，但如果长期独处或缺乏与其他猫的社交，它们对环境的敏感度会增加。\n\n- **强烈依附关系**：猫如果与主人形成强烈的情感纽带，当分离时就会像人类或狗一样产生压力反应。这通常发生在猫视主人为“安全基地”的情况下。\n\n- **健康或创伤因素**：疼痛、疾病、过去的虐待历史、或经历过创伤事件（如被遗弃或惊吓），也会导致猫对分离更敏感。这些身体或心理问题会放大焦虑。\n如果你的猫表现出分离焦虑的症状（如过度叫唤、不吃东西、乱尿、破坏家具），建议咨询兽医排除健康问题，并考虑行为训练、增加互动玩具或引入伴侣宠物来缓解。每个猫的情况不同，专业指导很重要。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫的分离焦虑（Separation Anxiety）是一种常见的宠物行为问题，指猫在与主人或其他依附对象分离时表现出强烈的压力、恐惧或不安。这种情况不像狗那么普遍，但确实存在，尤其在某些猫身上。以下是猫出现分离焦虑的主要原因，这些基于可靠的宠物健康来源总结而来：\n\n-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2010214862530773178",
+        "created_at": "2026-01-11T04:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T05:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010214862530773178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010214862530773178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "猫的分离焦虑（Separation Anxiety）是一种常见的宠物行为问题，指猫在与主人或其他依附对象分离时表现出强烈的压力、恐惧或不安。这种情况不像狗那么普遍，但确实存在，尤其在某些猫身上。以下是猫出现分离焦虑的主要原因，这些基于可靠的宠物健康来源总结而来：\n\n- **环境或生活变化**：猫对例行习惯非常敏感，如果主人突然改变工作模式（如从在家办公转为外出上班）、家庭成员增加（如新生儿）、搬家、或主人外出度假，这些都会引发焦虑。例如，搬到新家或主人长时间不在家时，猫可能会感到不安全。\n\n- **早年经历**：如果猫在幼年时期被早早断奶、成为孤儿、或通过瓶喂养大，它们更容易发展出对主人的过度依赖，从而在分离时焦虑。\n\n- **缺乏伴侣或社交**：单只室内猫，尤其是没有其他宠物陪伴的猫，更容易感到孤独和焦虑。猫虽然独立，但如果长期独处或缺乏与其他猫的社交，它们对环境的敏感度会增加。\n\n- **强烈依附关系**：猫如果与主人形成强烈的情感纽带，当分离时就会像人类或狗一样产生压力反应。这通常发生在猫视主人为“安全基地”的情况下。\n\n- **健康或创伤因素**：疼痛、疾病、过去的虐待历史、或经历过创伤事件（如被遗弃或惊吓），也会导致猫对分离更敏感。这些身体或心理问题会放大焦虑。\n如果你的猫表现出分离焦虑的症状（如过度叫唤、不吃东西、乱尿、破坏家具），建议咨询兽医排除健康问题，并考虑行为训练、增加互动玩具或引入伴侣宠物来缓解。每个猫的情况不同，专业指导很重要。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫的分离焦虑（Separation Anxiety）是一种常见的宠物行为问题，指猫在与主人或其他依附对象分离时表现出强烈的压力、恐惧或不安。这种情况不像狗那么普遍，但确实存在，尤其在某些猫身上。以下是猫出现分离焦虑的主要原因，这些基于可靠的宠物健康来源总结而来：\n\n-"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62005,
+          "following_count": 2096,
+          "like_count": 50861,
+          "listed_count": 4,
+          "media_count": 450,
+          "tweet_count": 758
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

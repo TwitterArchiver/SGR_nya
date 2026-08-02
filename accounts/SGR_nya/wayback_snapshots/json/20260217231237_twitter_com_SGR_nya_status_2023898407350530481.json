@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2023278751451361363",
+    "created_at": "2026-02-17T23:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T00:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023898407350530481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803662310445293570",
+          "start": 0,
+          "username": "mingshuang99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023898407350530481",
+    "in_reply_to_user_id": "1803662310445293570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023278751451361363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingshuang99 没绷住 这都偷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2023278748427309056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQhTUmbUAAPi4y.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2023278751451361363",
+        "created_at": "2026-02-17T23:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T00:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023898407350530481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803662310445293570",
+              "start": 0,
+              "username": "mingshuang99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023898407350530481",
+        "in_reply_to_user_id": "1803662310445293570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023278751451361363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingshuang99 没绷住 这都偷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023278748427309056"
+          ]
+        },
+        "author_id": "1803662310445293570",
+        "conversation_id": "2023278751451361363",
+        "created_at": "2026-02-16T06:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023278751451361363"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "反差"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "母狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JtBQR18eWp",
+              "end": 42,
+              "expanded_url": "https://x.com/mingshuang99/status/2023278751451361363/photo/1",
+              "media_key": "3_2023278748427309056",
+              "start": 19,
+              "url": "https://t.co/JtBQR18eWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023278751451361363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 97891,
+          "like_count": 1495,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "172算御姐吗？学弟\n#反差 #母狗 https://t.co/JtBQR18eWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62191,
+          "following_count": 2096,
+          "like_count": 51139,
+          "listed_count": 5,
+          "media_count": 459,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-20T05:33:10.000Z",
+        "description": "来这里撒野 🌸172\n北京女大",
+        "id": "1803662310445293570",
+        "location": "beijing",
+        "name": "明爽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803662563944857600/aUd_0Lqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7531,
+          "following_count": 12,
+          "like_count": 47,
+          "listed_count": 13,
+          "media_count": 195,
+          "tweet_count": 328
+        },
+        "username": "mingshuang99",
+        "verified": false
+      }
+    ]
+  }
+}

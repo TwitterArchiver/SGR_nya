@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2003791514393289182",
+    "created_at": "2025-12-24T15:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T16:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003857838775672837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590927428",
+          "start": 0,
+          "username": "hwwaanng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003857838775672837",
+    "in_reply_to_user_id": "1590927428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003791514393289182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hwwaanng 有时会怀疑某些软件的广告和正常页面灵敏度不一样…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "16_2003066767976116224",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G8xSnN6bMAA1VoZ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G8xSnN6bMAA1VoZ.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2003791514393289182",
+        "created_at": "2025-12-24T15:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003857838775672837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590927428",
+              "start": 0,
+              "username": "hwwaanng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003857838775672837",
+        "in_reply_to_user_id": "1590927428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003791514393289182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hwwaanng 有时会怀疑某些软件的广告和正常页面灵敏度不一样…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2003066767976116224"
+          ]
+        },
+        "author_id": "1590927428",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2003791514393289182",
+        "created_at": "2025-12-24T11:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003791514393289182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5VJvRzEYoL",
+              "end": 49,
+              "expanded_url": "https://x.com/hwwaanng/status/2003791514393289182/photo/1",
+              "media_key": "16_2003066767976116224",
+              "start": 26,
+              "url": "https://t.co/5VJvRzEYoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003791514393289182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13547,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025年 Android 设备的防误触水平... https://t.co/5VJvRzEYoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61865,
+          "following_count": 2095,
+          "like_count": 50625,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-13T12:35:29.000Z",
+        "description": "是男的 Design/Vibe/Shape iOS 📱 ► https://t.co/2bC853dFNn / https://t.co/YUTroLSHEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "handstime.app",
+                "end": 53,
+                "expanded_url": "http://handstime.app",
+                "start": 30,
+                "url": "https://t.co/2bC853dFNn"
+              },
+              {
+                "display_url": "lofidot.com",
+                "end": 79,
+                "expanded_url": "https://lofidot.com",
+                "start": 56,
+                "url": "https://t.co/YUTroLSHEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hwang.fun",
+                "end": 23,
+                "expanded_url": "https://hwang.fun",
+                "start": 0,
+                "url": "https://t.co/J6eYfmHqS0"
+              }
+            ]
+          }
+        },
+        "id": "1590927428",
+        "location": "Shanghai",
+        "name": "Hwang",
+        "pinned_tweet_id": "1986285430170583378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361512556930600969/LBwP2_YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19325,
+          "following_count": 3631,
+          "like_count": 22084,
+          "listed_count": 215,
+          "media_count": 1990,
+          "tweet_count": 7290
+        },
+        "url": "https://t.co/J6eYfmHqS0",
+        "username": "hwwaanng",
+        "verified": true
+      }
+    ]
+  }
+}

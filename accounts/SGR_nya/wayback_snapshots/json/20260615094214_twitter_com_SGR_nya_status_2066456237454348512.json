@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2066453105009742083",
+    "created_at": "2026-06-15T09:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066456237454348512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1510601261019631618",
+          "start": 0,
+          "username": "kujirarara_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066456237454348512",
+    "in_reply_to_user_id": "1510601261019631618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066453105009742083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kujirarara_ 小心液金移位x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066453097434828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2EJMGb0AACa24.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2066453105009742083",
+        "created_at": "2026-06-15T09:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066456237454348512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1510601261019631618",
+              "start": 0,
+              "username": "kujirarara_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066456237454348512",
+        "in_reply_to_user_id": "1510601261019631618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066453105009742083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujirarara_ 小心液金移位x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066453097434828800"
+          ]
+        },
+        "author_id": "1510601261019631618",
+        "conversation_id": "2066453105009742083",
+        "created_at": "2026-06-15T09:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066453105009742083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iarak3NF3l",
+              "end": 42,
+              "expanded_url": "https://x.com/kujirarara_/status/2066453105009742083/photo/1",
+              "media_key": "3_2066453097434828800",
+              "start": 19,
+              "url": "https://t.co/iarak3NF3l"
+            },
+            {
+              "display_url": "x.com/kujirarara_/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/kujirarara_/status/2066438645285048368",
+              "start": 43,
+              "url": "https://t.co/uiRdwp6BtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066453105009742083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066438645285048368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "调整了一下弄了这么一个神人散热方案🤔 https://t.co/iarak3NF3l https://t.co/uiRdwp6BtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63022,
+          "following_count": 2071,
+          "like_count": 53036,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-03T12:53:09.000Z",
+        "description": "可以叫我蓝鲸喵🐳 | Social Democracy | She/Her | MtF | Trans-les | CN/EN/JP | 轨道交通/城市规划/历史研究/日常 | 🩵🩷🤍🩷🩵",
+        "id": "1510601261019631618",
+        "location": "すみだ水族館",
+        "name": "くじら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053860270225895424/t-qcmhuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 584,
+          "like_count": 110427,
+          "listed_count": 20,
+          "media_count": 1428,
+          "tweet_count": 7171
+        },
+        "username": "kujirarara_",
+        "verified": false
+      }
+    ]
+  }
+}

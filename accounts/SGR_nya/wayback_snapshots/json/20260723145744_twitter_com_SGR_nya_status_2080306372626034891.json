@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080306362819719168",
+        "3_2080306362815520768",
+        "3_2080306362752643072"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080306372626034891",
+    "created_at": "2026-07-23T14:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080306372626034891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kz0Ul1JiG4",
+          "end": 27,
+          "expanded_url": "https://x.com/SGR_nya/status/2080306372626034891/photo/1",
+          "media_key": "3_2080306362819719168",
+          "start": 4,
+          "url": "https://t.co/kz0Ul1JiG4"
+        },
+        {
+          "display_url": "pic.x.com/kz0Ul1JiG4",
+          "end": 27,
+          "expanded_url": "https://x.com/SGR_nya/status/2080306372626034891/photo/1",
+          "media_key": "3_2080306362815520768",
+          "start": 4,
+          "url": "https://t.co/kz0Ul1JiG4"
+        },
+        {
+          "display_url": "pic.x.com/kz0Ul1JiG4",
+          "end": 27,
+          "expanded_url": "https://x.com/SGR_nya/status/2080306372626034891/photo/1",
+          "media_key": "3_2080306362752643072",
+          "start": 4,
+          "url": "https://t.co/kz0Ul1JiG4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080306372626034891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "小猫咪 https://t.co/kz0Ul1JiG4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080306362819719168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN67nXPasAAZju7.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2080306362815520768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN67nXOaoAAFsOx.jpg",
+        "width": 1024
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2080306362752643072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN67nW_bMAAHCbY.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080306362819719168",
+            "3_2080306362815520768",
+            "3_2080306362752643072"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080306372626034891",
+        "created_at": "2026-07-23T14:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080306372626034891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kz0Ul1JiG4",
+              "end": 27,
+              "expanded_url": "https://x.com/SGR_nya/status/2080306372626034891/photo/1",
+              "media_key": "3_2080306362819719168",
+              "start": 4,
+              "url": "https://t.co/kz0Ul1JiG4"
+            },
+            {
+              "display_url": "pic.x.com/kz0Ul1JiG4",
+              "end": 27,
+              "expanded_url": "https://x.com/SGR_nya/status/2080306372626034891/photo/1",
+              "media_key": "3_2080306362815520768",
+              "start": 4,
+              "url": "https://t.co/kz0Ul1JiG4"
+            },
+            {
+              "display_url": "pic.x.com/kz0Ul1JiG4",
+              "end": 27,
+              "expanded_url": "https://x.com/SGR_nya/status/2080306372626034891/photo/1",
+              "media_key": "3_2080306362752643072",
+              "start": 4,
+              "url": "https://t.co/kz0Ul1JiG4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080306372626034891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "小猫咪 https://t.co/kz0Ul1JiG4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngEo0V"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63228,
+          "following_count": 2074,
+          "like_count": 54560,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/yQ32ngEo0V",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

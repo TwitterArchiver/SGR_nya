@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004432603743768583"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2004432641324704177",
+    "created_at": "2025-12-26T06:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T07:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004432641324704177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nZc9uYAzuY",
+          "end": 122,
+          "expanded_url": "https://x.com/SGR_nya/status/2004432641324704177/photo/1",
+          "media_key": "3_2004432603743768583",
+          "start": 99,
+          "url": "https://t.co/nZc9uYAzuY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004432641324704177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "女朋友送的礼物，我本来还以为是什么呢，结果一看，发现是一个花，好像叫什么花。\n女朋友在2025年12月25日给我送了花这件事没必要天天提，因为我知道2025年12月25日女朋友给买了花的人多的是。\n其实我一直觉得女朋友送花是一件很普通的事情不理解为什么有人会刻意发出来炫耀，我觉得这没什么值得说的，这只是我生活中的一个小插曲，我也没有很高兴，毕竟我说了这是我的日常而已没有什么值得炫耀的，只是想跟大家说明一下，这里面我真没花一分钱，完全是我女朋友给我买的。我说这话不是为了炫耀什么，只是想特别强调一下这是我女朋友买的，真的不是为了显摆，毕竟是我女朋友送的，又不是我在炫耀。我女朋友买的就是香，我个人觉得这没什么可炫耀的，只是想让大家知道一下，这是我女朋友买的，仅此而已，真的没有任何炫耀的意思。\n只是单纯想告诉大家，这真的是我女朋友买的"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女朋友送的礼物，我本来还以为是什么呢，结果一看，发现是一个花，好像叫什么花。\n女朋友在2025年12月25日给我送了花这件事没必要天天提，因为我知道2025年12月25日女朋友给买了花的人多的是。 https://t.co/nZc9uYAzuY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2004432603743768583",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Es1Upb0AcoUx0.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004432603743768583"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004432641324704177",
+        "created_at": "2025-12-26T06:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T07:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004432641324704177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZc9uYAzuY",
+              "end": 122,
+              "expanded_url": "https://x.com/SGR_nya/status/2004432641324704177/photo/1",
+              "media_key": "3_2004432603743768583",
+              "start": 99,
+              "url": "https://t.co/nZc9uYAzuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004432641324704177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "女朋友送的礼物，我本来还以为是什么呢，结果一看，发现是一个花，好像叫什么花。\n女朋友在2025年12月25日给我送了花这件事没必要天天提，因为我知道2025年12月25日女朋友给买了花的人多的是。\n其实我一直觉得女朋友送花是一件很普通的事情不理解为什么有人会刻意发出来炫耀，我觉得这没什么值得说的，这只是我生活中的一个小插曲，我也没有很高兴，毕竟我说了这是我的日常而已没有什么值得炫耀的，只是想跟大家说明一下，这里面我真没花一分钱，完全是我女朋友给我买的。我说这话不是为了炫耀什么，只是想特别强调一下这是我女朋友买的，真的不是为了显摆，毕竟是我女朋友送的，又不是我在炫耀。我女朋友买的就是香，我个人觉得这没什么可炫耀的，只是想让大家知道一下，这是我女朋友买的，仅此而已，真的没有任何炫耀的意思。\n只是单纯想告诉大家，这真的是我女朋友买的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女朋友送的礼物，我本来还以为是什么呢，结果一看，发现是一个花，好像叫什么花。\n女朋友在2025年12月25日给我送了花这件事没必要天天提，因为我知道2025年12月25日女朋友给买了花的人多的是。 https://t.co/nZc9uYAzuY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61854,
+          "following_count": 2101,
+          "like_count": 50675,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

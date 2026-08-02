@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2050916836242595920",
+    "created_at": "2026-05-03T16:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050970274108244045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1087376161053671425",
+          "start": 0,
+          "username": "SakuraKooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050970274108244045",
+    "in_reply_to_user_id": "1087376161053671425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050970192508010805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@SakuraKooi 恩情"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050970192508010805].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050970192508010805",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050970192508010805"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2050916836242595920",
+        "created_at": "2026-05-03T16:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050970274108244045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1087376161053671425",
+              "start": 0,
+              "username": "SakuraKooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050970274108244045",
+        "in_reply_to_user_id": "1087376161053671425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050970192508010805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SakuraKooi 恩情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗  中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+SR7JXlRgyfswN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+SR7JXlRgyfswN2Zl",
+                "start": 0,
+                "url": "https://t.co/sKABKFGXma"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62617,
+          "following_count": 2083,
+          "like_count": 51803,
+          "listed_count": 6,
+          "media_count": 422,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/sKABKFGXma",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-21T15:47:34.000Z",
+        "description": "梦是幽蓝色彩 灵魂如雪纯白~☆ \n恋恋世界第一可爱 / INFJ-T / Spectator / Java摸鱼工程师 / FullStackOverflow Developer / (前)Minecraft插件开发者 / 偶尔玩点逆向 / 沉迷战地庸医ing / 折腾奇奇怪怪的东西 / 清水！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakurakooi.dev",
+                "end": 23,
+                "expanded_url": "https://www.sakurakooi.dev",
+                "start": 0,
+                "url": "https://t.co/GIE7PI0uHn"
+              }
+            ]
+          }
+        },
+        "id": "1087376161053671425",
+        "location": "Gensokyo",
+        "name": "SakuraKooi 🏳️‍🌈",
+        "pinned_tweet_id": "1675347164099383297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845334101156560898/gSlQi_KT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 383,
+          "like_count": 3294,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 3600
+        },
+        "url": "https://t.co/GIE7PI0uHn",
+        "username": "SakuraKooi",
+        "verified": false
+      }
+    ]
+  }
+}
