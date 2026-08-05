@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2083939621193588968",
+    "created_at": "2026-08-02T23:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T00:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084054949366005762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1227954015859666946",
+          "start": 0,
+          "username": "shouzan_aya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084054949366005762",
+    "in_reply_to_user_id": "1227954015859666946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083939621193588968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shouzan_aya （戳肚子）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083939621193588968].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083939621193588968",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083939621193588968"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2083939621193588968",
+        "created_at": "2026-08-02T23:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084054949366005762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227954015859666946",
+              "start": 0,
+              "username": "shouzan_aya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084054949366005762",
+        "in_reply_to_user_id": "1227954015859666946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083939621193588968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shouzan_aya （戳肚子）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "希古列",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63230,
+          "following_count": 2074,
+          "like_count": 54733,
+          "listed_count": 4,
+          "media_count": 450,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-13T13:54:10.000Z",
+        "description": "能文能武，长相十分英俊/真的是金属制造商",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/G_593_041",
+                "end": 23,
+                "expanded_url": "https://t.me/G_593_041",
+                "start": 0,
+                "url": "https://t.co/sGSmaHD0BK"
+              }
+            ]
+          }
+        },
+        "id": "1227954015859666946",
+        "location": "HNU南校区/Skies Unknown ",
+        "name": "连云",
+        "pinned_tweet_id": "1614272932423012354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055680734107697152/-JGJzRV2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 262,
+          "like_count": 47508,
+          "listed_count": 0,
+          "media_count": 3981,
+          "tweet_count": 25958
+        },
+        "url": "https://t.co/sGSmaHD0BK",
+        "username": "shouzan_aya",
+        "verified": false
+      }
+    ]
+  }
+}
