@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085576086667309056",
+        "3_2085576086646394880"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2085576363336225227",
+    "created_at": "2026-08-07T03:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:58:06.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085576189448716530",
+      "2085576363336225227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RFivZtbJ5S",
+          "end": 86,
+          "expanded_url": "https://x.com/SGR_nya/status/2085576363336225227/photo/1",
+          "media_key": "3_2085576086667309056",
+          "start": 63,
+          "url": "https://t.co/RFivZtbJ5S"
+        },
+        {
+          "display_url": "pic.x.com/RFivZtbJ5S",
+          "end": 86,
+          "expanded_url": "https://x.com/SGR_nya/status/2085576363336225227/photo/1",
+          "media_key": "3_2085576086646394880",
+          "start": 63,
+          "url": "https://t.co/RFivZtbJ5S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085576363336225227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "获得关键剧情道具：东京福祉大学面试宝具\n面试的时候只要手腕上同时露出三个这个即可自动获得东京福祉大学合格通知书（bushi） https://t.co/RFivZtbJ5S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085576086667309056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF0ZqXasAAt5mi.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1676,
+        "media_key": "3_2085576086646394880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF0ZqSbkAAhDB_.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085576086667309056",
+            "3_2085576086646394880"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2085576189448716530",
+        "created_at": "2026-08-07T03:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:58:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085576189448716530",
+          "2085576363336225227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kp20GdA9XV",
+              "end": 81,
+              "expanded_url": "https://x.com/SGR_nya/status/2085576189448716530/photo/1",
+              "media_key": "3_2085576086667309056",
+              "start": 58,
+              "url": "https://t.co/Kp20GdA9XV"
+            },
+            {
+              "display_url": "pic.x.com/Kp20GdA9XV",
+              "end": 81,
+              "expanded_url": "https://x.com/SGR_nya/status/2085576189448716530/photo/1",
+              "media_key": "3_2085576086646394880",
+              "start": 58,
+              "url": "https://t.co/Kp20GdA9XV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085576189448716530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "获得关键剧情道具：东京福祉大学面试宝具\n面试的时候只要手腕上同时露出三个这个即可自动入学东京福祉大学（bushi） https://t.co/Kp20GdA9XV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085576086667309056",
+            "3_2085576086646394880"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2085576363336225227",
+        "created_at": "2026-08-07T03:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:58:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085576189448716530",
+          "2085576363336225227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFivZtbJ5S",
+              "end": 86,
+              "expanded_url": "https://x.com/SGR_nya/status/2085576363336225227/photo/1",
+              "media_key": "3_2085576086667309056",
+              "start": 63,
+              "url": "https://t.co/RFivZtbJ5S"
+            },
+            {
+              "display_url": "pic.x.com/RFivZtbJ5S",
+              "end": 86,
+              "expanded_url": "https://x.com/SGR_nya/status/2085576363336225227/photo/1",
+              "media_key": "3_2085576086646394880",
+              "start": 63,
+              "url": "https://t.co/RFivZtbJ5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085576363336225227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "获得关键剧情道具：东京福祉大学面试宝具\n面试的时候只要手腕上同时露出三个这个即可自动获得东京福祉大学合格通知书（bushi） https://t.co/RFivZtbJ5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "希古列",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63250,
+          "following_count": 2074,
+          "like_count": 54798,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

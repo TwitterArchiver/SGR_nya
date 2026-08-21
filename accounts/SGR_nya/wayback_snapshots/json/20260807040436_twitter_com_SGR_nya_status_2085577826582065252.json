@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2085576363336225227",
+    "created_at": "2026-08-07T04:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085577826582065252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1284427583057268736",
+          "start": 0,
+          "username": "bundeswehr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085577826582065252",
+    "in_reply_to_user_id": "1284427583057268736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085577394002538590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bundeswehr233 是嘟 改了碳纤维壳和背透"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2085576363336225227",
+        "created_at": "2026-08-07T04:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085577826582065252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1284427583057268736",
+              "start": 0,
+              "username": "bundeswehr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085577826582065252",
+        "in_reply_to_user_id": "1284427583057268736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085577394002538590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bundeswehr233 是嘟 改了碳纤维壳和背透"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1284427583057268736",
+        "conversation_id": "2085576363336225227",
+        "created_at": "2026-08-07T04:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085577394002538590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085577394002538590",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085576363336225227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGR_nya 改装的壳吗 蛮好看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "1DQ1-A（-0.9）",
+        "name": "希古列",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63250,
+          "following_count": 2074,
+          "like_count": 54798,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-18T09:59:48.000Z",
+        "description": "普通人 有可爱的老婆 会转推有意思的帖 杜卡迪ducati车主🛵 大阪に住む 夜眼鏡が好きな人🟢🟢🟢🟢",
+        "id": "1284427583057268736",
+        "location": "3Dプリンターの横に",
+        "name": "Bun",
+        "pinned_tweet_id": "1868187567612645850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471810516309798915/2HUE78U4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 979,
+          "like_count": 21945,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 4764
+        },
+        "url": "",
+        "username": "bundeswehr233",
+        "verified": false
+      }
+    ]
+  }
+}

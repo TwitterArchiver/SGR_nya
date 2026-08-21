@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2089376485593473141",
+    "created_at": "2026-08-18T09:32:35.000Z",
+    "display_text_range": [
+      12,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089646631771885822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1428706836455165956",
+          "start": 0,
+          "username": "Adonis_s_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089646631771885822",
+    "in_reply_to_user_id": "1428706836455165956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089376485593473141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adonis_s_s 嗯…可能是喜欢到处住酒店住着玩的酒店佬x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_2089376479952203776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP701qmbcAAc_21.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2089376485593473141",
+        "created_at": "2026-08-18T09:32:35.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089646631771885822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1428706836455165956",
+              "start": 0,
+              "username": "Adonis_s_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089646631771885822",
+        "in_reply_to_user_id": "1428706836455165956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089376485593473141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adonis_s_s 嗯…可能是喜欢到处住酒店住着玩的酒店佬x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089376479952203776"
+          ]
+        },
+        "author_id": "1428706836455165956",
+        "conversation_id": "2089376485593473141",
+        "created_at": "2026-08-17T15:39:07.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089376485593473141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JuSEJztZO2",
+              "end": 28,
+              "expanded_url": "https://x.com/Adonis_s_s/status/2089376485593473141/photo/1",
+              "media_key": "3_2089376479952203776",
+              "start": 5,
+              "url": "https://t.co/JuSEJztZO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089376485593473141",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089376479952203776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 23580,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我被骂😭 https://t.co/JuSEJztZO2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2089646631771885822",
+        "name": "希古列",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63225,
+          "following_count": 2071,
+          "like_count": 54902,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-20T13:13:59.000Z",
+        "description": "失去了爱与被爱的能力\n一直在寻找一个没有痛苦的死亡方式\n颜控 不开盲盒",
+        "id": "1428706836455165956",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2089622786042118284",
+        "name": "阿澈",
+        "pinned_tweet_id": "1841052404516540437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1428706836455165956/1733031994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544725415683469313/IAiuux6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 594,
+          "like_count": 28934,
+          "listed_count": 9,
+          "media_count": 443,
+          "tweet_count": 9056
+        },
+        "url": "",
+        "username": "Adonis_s_s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

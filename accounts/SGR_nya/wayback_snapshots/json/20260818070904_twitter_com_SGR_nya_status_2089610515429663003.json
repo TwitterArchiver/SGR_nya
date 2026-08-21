@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2089359828712059331",
+    "created_at": "2026-08-18T07:09:04.000Z",
+    "display_text_range": [
+      10,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T08:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089610515429663003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1265815872997748737",
+          "start": 0,
+          "username": "Eastion5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089610515429663003",
+    "in_reply_to_user_id": "1265815872997748737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089359828712059331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eastion5 超市的防背板机制说是，都这样\n就是为了让人多逛 逛多了说不定就多买什么东西了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2089359828712059331",
+        "created_at": "2026-08-18T07:09:04.000Z",
+        "display_text_range": [
+          10,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089610515429663003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1265815872997748737",
+              "start": 0,
+              "username": "Eastion5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089610515429663003",
+        "in_reply_to_user_id": "1265815872997748737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089359828712059331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eastion5 超市的防背板机制说是，都这样\n就是为了让人多逛 逛多了说不定就多买什么东西了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265815872997748737",
+        "conversation_id": "2089359828712059331",
+        "created_at": "2026-08-17T14:32:56.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089359828712059331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089359828712059331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "周六去厦门山姆买尿布，进门之后直冲对应的分类货架，发现又变地方了，放零食的地方变成放奶粉，放奶粉的地方变成放零食。遂直接拿起手机拍照准备投诉\n\n这时候过来了一个大姐，问我需要啥，我说我就拍一下，准备投诉一下，每次来你们都乱挪货架\n\n然后大姐赶紧说你可以加山姆云管家，都是真人，要什么货你找他们，他们给你定位\n\n我说我又不是代购天天加这些人，你们店长天天挪货架，把洗衣粉和酒放一起我都没话说了\n\n大姐笑了笑说嘿嘿嘿现在接下去应该一直都会换，每个月换一次\n\n看来阿里系的确实喜欢干无用的工作"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 94641,
+          "like_count": 340,
+          "quote_count": 4,
+          "reply_count": 94,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "周六去厦门山姆买尿布，进门之后直冲对应的分类货架，发现又变地方了，放零食的地方变成放奶粉，放奶粉的地方变成放零食。遂直接拿起手机拍照准备投诉\n\n这时候过来了一个大姐，问我需要啥，我说我就拍一下，准备投诉一下，每次来你们都乱挪货架"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2089610515429663003",
+        "name": "希古列",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63217,
+          "following_count": 2070,
+          "like_count": 54900,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-28T01:23:26.000Z",
+        "description": "AI Native Product Leader / Product FDE\n10+ yrs in Growth, Monetization, BI & Platforms\nBuilding overseas apps with AI teams\nTurning business problems into relia",
+        "id": "1265815872997748737",
+        "is_identity_verified": true,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2089564299681566725",
+        "name": "Eastion",
+        "pinned_tweet_id": "2001258385002676633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265815872997748737/1602870323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453683770310086656/TnsNy5Sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1625,
+          "like_count": 2044,
+          "listed_count": 8,
+          "media_count": 546,
+          "tweet_count": 10441
+        },
+        "url": "",
+        "username": "Eastion5",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

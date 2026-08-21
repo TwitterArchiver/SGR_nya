@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089511596259528704"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2089511602806796622",
+    "created_at": "2026-08-18T00:36:02.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T01:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089511602806796622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/riPJSb0Cpi",
+          "end": 23,
+          "expanded_url": "https://x.com/SGR_nya/status/2089511602806796622/photo/1",
+          "media_key": "3_2089511596259528704",
+          "start": 0,
+          "url": "https://t.co/riPJSb0Cpi"
+        },
+        {
+          "display_url": "x.com/ValeriaEulabei…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2089505857843474571",
+          "start": 24,
+          "url": "https://t.co/sfvczZbZyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089511602806796622",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2089511596259528704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089505857843474571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/riPJSb0Cpi https://t.co/sfvczZbZyB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_2089511596259528704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9vueEb0AAmyba.jpg",
+        "width": 1736
+      },
+      {
+        "height": 1002,
+        "media_key": "3_2089505840948711424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP9qfd3aEAAB242.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089511596259528704"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2089511602806796622",
+        "created_at": "2026-08-18T00:36:02.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089511602806796622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/riPJSb0Cpi",
+              "end": 23,
+              "expanded_url": "https://x.com/SGR_nya/status/2089511602806796622/photo/1",
+              "media_key": "3_2089511596259528704",
+              "start": 0,
+              "url": "https://t.co/riPJSb0Cpi"
+            },
+            {
+              "display_url": "x.com/ValeriaEulabei…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/2089505857843474571",
+              "start": 24,
+              "url": "https://t.co/sfvczZbZyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089511602806796622",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089511596259528704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089505857843474571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/riPJSb0Cpi https://t.co/sfvczZbZyB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089505840948711424"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "conversation_id": "2089505857843474571",
+        "created_at": "2026-08-18T00:13:12.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T01:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089505857843474571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTIGp7zZO1",
+              "end": 26,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2089505857843474571/photo/1",
+              "media_key": "3_2089505840948711424",
+              "start": 3,
+              "url": "https://t.co/WTIGp7zZO1"
+            },
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2089400021129343101",
+              "start": 27,
+              "url": "https://t.co/IWMdZrfHUD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089505857843474571",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089505840948711424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089400021129343101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈？ https://t.co/WTIGp7zZO1 https://t.co/IWMdZrfHUD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2089511602806796622",
+        "name": "希古列",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63211,
+          "following_count": 2070,
+          "like_count": 54884,
+          "listed_count": 4,
+          "media_count": 455,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "is_identity_verified": false,
+        "location": "Queensland, Australia",
+        "most_recent_tweet_id": "2089505857843474571",
+        "name": "🏴‍☠️Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313383273079345152/1776957256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082274819450732544/2k3gw41X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7042,
+          "following_count": 4158,
+          "like_count": 171565,
+          "listed_count": 20,
+          "media_count": 2865,
+          "tweet_count": 27868
+        },
+        "url": "",
+        "username": "ValeriaEulabeia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
