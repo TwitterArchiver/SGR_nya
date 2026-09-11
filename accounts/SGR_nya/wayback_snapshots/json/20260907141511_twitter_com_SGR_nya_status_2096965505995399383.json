@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2096965417990488523",
+    "created_at": "2026-09-07T14:15:11.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096965505995399383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1143767655377039360",
+          "start": 0,
+          "username": "NaShiro_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096965505995399383",
+    "in_reply_to_user_id": "1143767655377039360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096965417990488523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaShiro_Yuki 退休快乐.jpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3075,
+        "media_key": "3_2096965381776896000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnq548acAAJiav.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3075,
+        "media_key": "3_2096965395429404672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnq6rzbMAA5RVI.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3075,
+        "media_key": "3_2096965407399911424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnq7YZaoAA5yUF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2096965417990488523",
+        "created_at": "2026-09-07T14:15:11.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096965505995399383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1143767655377039360",
+              "start": 0,
+              "username": "NaShiro_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096965505995399383",
+        "in_reply_to_user_id": "1143767655377039360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096965417990488523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaShiro_Yuki 退休快乐.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096965381776896000",
+            "3_2096965395429404672",
+            "3_2096965407399911424"
+          ]
+        },
+        "author_id": "1143767655377039360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096965417990488523",
+        "created_at": "2026-09-07T14:14:50.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096965417990488523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ud2DFXlyr",
+              "end": 82,
+              "expanded_url": "https://x.com/NaShiro_Yuki/status/2096965417990488523/photo/1",
+              "media_key": "3_2096965381776896000",
+              "start": 59,
+              "url": "https://t.co/2Ud2DFXlyr"
+            },
+            {
+              "display_url": "pic.x.com/2Ud2DFXlyr",
+              "end": 82,
+              "expanded_url": "https://x.com/NaShiro_Yuki/status/2096965417990488523/photo/1",
+              "media_key": "3_2096965395429404672",
+              "start": 59,
+              "url": "https://t.co/2Ud2DFXlyr"
+            },
+            {
+              "display_url": "pic.x.com/2Ud2DFXlyr",
+              "end": 82,
+              "expanded_url": "https://x.com/NaShiro_Yuki/status/2096965417990488523/photo/1",
+              "media_key": "3_2096965407399911424",
+              "start": 59,
+              "url": "https://t.co/2Ud2DFXlyr"
+            },
+            {
+              "display_url": "x.com/NaShiro_Yuki/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/NaShiro_Yuki/status/2096964178649227323",
+              "start": 83,
+              "url": "https://t.co/y9XTAignw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096965417990488523",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096965381776896000"
+          },
+          {
+            "media_key": "3_2096965395429404672"
+          },
+          {
+            "media_key": "3_2096965407399911424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096964178649227323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实习完了太爽了，去吃烤肉庆祝了今天，而且我实习的公司是9点打卡上班6点下班双休但是早上迟到不扣工资的，希望全世界学习 https://t.co/2Ud2DFXlyr https://t.co/y9XTAignw6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2096965505995399383",
+        "name": "希古列",
+        "pinned_tweet_id": "2094400947862782007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63335,
+          "following_count": 2076,
+          "like_count": 55123,
+          "listed_count": 4,
+          "media_count": 460,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-26T06:27:14.000Z",
+        "description": "索拉尔的二次仪式",
+        "id": "1143767655377039360",
+        "is_identity_verified": false,
+        "location": "幻梦境",
+        "most_recent_tweet_id": "2096965417990488523",
+        "name": "奈丶白",
+        "pinned_tweet_id": "1945570893742444969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143767655377039360/1708891785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979703990876065792/QfM1MBX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 333,
+          "like_count": 4158,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 2243
+        },
+        "url": "",
+        "username": "NaShiro_Yuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

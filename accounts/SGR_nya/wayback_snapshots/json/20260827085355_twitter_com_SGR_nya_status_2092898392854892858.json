@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092898389159796736"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2092898392854892858",
+    "created_at": "2026-08-27T08:53:55.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092898392854892858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hV6lTTG7LK",
+          "end": 54,
+          "expanded_url": "https://x.com/SGR_nya/status/2092898392854892858/photo/1",
+          "media_key": "3_2092898389159796736",
+          "start": 31,
+          "url": "https://t.co/hV6lTTG7LK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092898392854892858",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092898389159796736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "外语好啊\n学外语好啊\n外语得学啊\n我也想学外语\n多学一门好啊 https://t.co/hV6lTTG7LK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 493,
+        "media_key": "3_2092898389159796736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt3_wzbYAAV0B4.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092898389159796736"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2092898392854892858",
+        "created_at": "2026-08-27T08:53:55.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092898392854892858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hV6lTTG7LK",
+              "end": 54,
+              "expanded_url": "https://x.com/SGR_nya/status/2092898392854892858/photo/1",
+              "media_key": "3_2092898389159796736",
+              "start": 31,
+              "url": "https://t.co/hV6lTTG7LK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092898392854892858",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092898389159796736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "外语好啊\n学外语好啊\n外语得学啊\n我也想学外语\n多学一门好啊 https://t.co/hV6lTTG7LK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2092898392854892858",
+        "name": "希古列",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63292,
+          "following_count": 2071,
+          "like_count": 54981,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 894
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

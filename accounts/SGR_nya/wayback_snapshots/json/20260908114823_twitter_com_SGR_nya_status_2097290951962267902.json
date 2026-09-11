@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097290947671506944"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2097232970956583002",
+    "created_at": "2026-09-08T11:48:23.000Z",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097290951962267902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1629898603899801600",
+          "start": 0,
+          "username": "AleMOMOfall"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxUAuzCj5x",
+          "end": 36,
+          "expanded_url": "https://x.com/SGR_nya/status/2097290951962267902/photo/1",
+          "media_key": "3_2097290947671506944",
+          "start": 13,
+          "url": "https://t.co/cxUAuzCj5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097290951962267902",
+    "in_reply_to_user_id": "1629898603899801600",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2097290947671506944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097246394486755786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AleMOMOfall https://t.co/cxUAuzCj5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 792,
+        "media_key": "3_2097290947671506944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsTAUaaQAA6FAX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097290947671506944"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2097232970956583002",
+        "created_at": "2026-09-08T11:48:23.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097290951962267902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1629898603899801600",
+              "start": 0,
+              "username": "AleMOMOfall"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxUAuzCj5x",
+              "end": 36,
+              "expanded_url": "https://x.com/SGR_nya/status/2097290951962267902/photo/1",
+              "media_key": "3_2097290947671506944",
+              "start": 13,
+              "url": "https://t.co/cxUAuzCj5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097290951962267902",
+        "in_reply_to_user_id": "1629898603899801600",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097290947671506944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097246394486755786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AleMOMOfall https://t.co/cxUAuzCj5x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629898603899801600",
+        "conversation_id": "2097232970956583002",
+        "created_at": "2026-09-08T08:51:20.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097246394486755786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1130781616274468864",
+              "start": 0,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097246394486755786",
+        "in_reply_to_user_id": "1130781616274468864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097232970956583002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@SGR_nya 偷吃长时雨gaka"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2097290951962267902",
+        "name": "希古列",
+        "pinned_tweet_id": "2094400947862782007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63334,
+          "following_count": 2076,
+          "like_count": 55144,
+          "listed_count": 4,
+          "media_count": 461,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-26T17:38:18.000Z",
+        "description": "",
+        "id": "1629898603899801600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097246394486755786",
+        "name": "momotac",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629898603899801600/1782947546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072449912386785280/U9ueEqSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 134,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "AleMOMOfall",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

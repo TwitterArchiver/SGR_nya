@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095429855198498816"
+      ]
+    },
+    "author_id": "1130781616274468864",
+    "conversation_id": "2095429906935218520",
+    "created_at": "2026-09-03T08:33:15.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095429906935218520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/crKuNoCyta",
+          "end": 55,
+          "expanded_url": "https://x.com/SGR_nya/status/2095429906935218520/video/1",
+          "media_key": "13_2095429855198498816",
+          "start": 32,
+          "url": "https://t.co/crKuNoCyta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095429906935218520",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095429855198498816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "f14:我不是舰载机来着吗.jpg\n起落架：没打过这么轻松的仗 https://t.co/crKuNoCyta"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17031,
+        "height": 720,
+        "media_key": "13_2095429855198498816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095429855198498816/img/Kx87trpDAYzufE9a.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095429855198498816/vid/avc1/480x270/ts_CA8J4LXlpBi_n.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095429855198498816/vid/avc1/640x360/GrroQBP9ObRR2ODg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095429855198498816/vid/avc1/1280x720/eDR327MDg2yEMm0H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095429855198498816/pl/840HBzsCqQnCnyEZ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095429855198498816"
+          ]
+        },
+        "author_id": "1130781616274468864",
+        "conversation_id": "2095429906935218520",
+        "created_at": "2026-09-03T08:33:15.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095429906935218520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crKuNoCyta",
+              "end": 55,
+              "expanded_url": "https://x.com/SGR_nya/status/2095429906935218520/video/1",
+              "media_key": "13_2095429855198498816",
+              "start": 32,
+              "url": "https://t.co/crKuNoCyta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095429906935218520",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095429855198498816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "f14:我不是舰载机来着吗.jpg\n起落架：没打过这么轻松的仗 https://t.co/crKuNoCyta"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2095429906935218520",
+        "name": "希古列",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63320,
+          "following_count": 2074,
+          "like_count": 55087,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
