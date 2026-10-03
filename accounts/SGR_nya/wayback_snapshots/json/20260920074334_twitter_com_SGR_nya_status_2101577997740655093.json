@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1130781616274468864",
+    "conversation_id": "2101267282873749583",
+    "created_at": "2026-09-20T07:43:34.000Z",
+    "display_text_range": [
+      13,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101577997740655093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "0xfufu_d667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101577997740655093",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101267282873749583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xfufu_d667 落户横滨吧，横滨户口可以办一签多行的，这样就方便一点了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2101267272149204992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkzc3abgAAkzMP.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2101267282873749583",
+        "created_at": "2026-09-20T07:43:34.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101577997740655093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "0xfufu_d667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101577997740655093",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101267282873749583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xfufu_d667 落户横滨吧，横滨户口可以办一签多行的，这样就方便一点了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101267272149204992"
+          ]
+        },
+        "author_id": "1892143528140267520",
+        "conversation_id": "2101267282873749583",
+        "created_at": "2026-09-19T11:08:54.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101267282873749583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u32MRT8Obt",
+              "end": 155,
+              "expanded_url": "https://x.com/0xfufu_d667/status/2101267282873749583/photo/1",
+              "media_key": "3_2101267272149204992",
+              "start": 132,
+              "url": "https://t.co/u32MRT8Obt"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "962b0af43cd1ad6c"
+        },
+        "id": "2101267282873749583",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101267272149204992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我大学在东京，但不是东京居民，为了省钱选择住在横滨。\n\n横滨人不能随便去东京，需要办理“往来东京通行证”并办理有效签注才能去东京待七天，但由于作为学生我办理了逗留D签注，我倒是能随便去东京，但每天都需要排大长队通过边检口岸才能进入东京，非常不便，需要一个多小时。\n\n横滨驿每天都有很多电车往来东京，但价格奇贵无比，有一笔高昂的跨境费在里面。所以很多人就选择坐到京急川崎驿，再走陆路口岸到达东京。\n\n东京人可以随便开车来横滨，但横滨人以前是没法开车去东京的。最近政策好了点，横滨人也能办理“横车北上”去东京了，只不过需要抽签排队，抽到你了才能办。另外，东京停车还很贵，很容易就2000一小时。\n\n东京人可以随便来横滨生活工作，并且是一等人，会受到很多超国民待遇，比如血站会给东京人优先用血。但横滨人去东京生活很难，办理逗留D的门槛很高，要么像我一样在东京读大学（对了，外地生源来东京读大学学费要翻三倍不止），要么得到雇主担保成为一名外劳（虽然法律上明确写着同工同酬，但这怎么可能呢？）。但在东京通常居留满七年后就能成为一名东京居民，享受东京居民的全部待遇，这也是为什么大家趋之若鹜来东京吧。\n\n不多说了，我要过关了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1099,
+          "impression_count": 675926,
+          "like_count": 4139,
+          "quote_count": 225,
+          "reply_count": 479,
+          "retweet_count": 601
+        },
+        "reply_settings": "everyone",
+        "text": "我大学在东京，但不是东京居民，为了省钱选择住在横滨。\n\n横滨人不能随便去东京，需要办理“往来东京通行证”并办理有效签注才能去东京待七天，但由于作为学生我办理了逗留D签注，我倒是能随便去东京，但每天都需要排大长队通过边检口岸才能进入东京，非常不便，需要一个多小时。 https://t.co/u32MRT8Obt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小小猫咪@⠕ 小猫咪@⠗ 中猫咪@⠊ 大猫咪@ ⠓ 超大猫咪@ ⠎ 巨大猫咪@ ⠁ ultra猫咪@⠝（评论区机器人太多，密接模式启用中，非常抱歉！）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/+AWyUpotng-U3M…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/+AWyUpotng-U3MWY1",
+                "start": 0,
+                "url": "https://t.co/yQ32ngDQbn"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "is_identity_verified": false,
+        "location": "1DQ1-A（-0.9）",
+        "most_recent_tweet_id": "2101577997740655093",
+        "name": "希古列",
+        "pinned_tweet_id": "2094400947862782007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130781616274468864/1762429259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910973276852224/5WhOQVRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63393,
+          "following_count": 2077,
+          "like_count": 55339,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 924
+        },
+        "url": "https://t.co/yQ32ngDQbn",
+        "username": "SGR_nya",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101554448422351355",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892143528140267520/1782207516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 766,
+          "like_count": 13441,
+          "listed_count": 11,
+          "media_count": 428,
+          "tweet_count": 5332
+        },
+        "url": "",
+        "username": "0xfufu_d667",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
